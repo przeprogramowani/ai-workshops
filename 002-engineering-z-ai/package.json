@@ -1,0 +1,13 @@
+{
+  "name": "engineering-z-ai",
+  "version": "1.0.0",
+  "description": "Moduł weryfikujący poprawność kodów ISBN",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node src/isbn.test.js"
+  },
+  "type": "module",
+  "author": "przeprogramowani@gmail.com",
+  "license": "ISC"
+}

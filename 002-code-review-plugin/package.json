@@ -1,0 +1,17 @@
+{
+  "name": "code-review-plugin",
+  "version": "0.0.1",
+  "description": "Plugin do automatycznego przeprowadzania Code Review z wykorzystaniem GPT-4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "przeprogramowani@gmail.com",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "16.3.1",
+    "openai": "3.3.0",
+    "ora": "^6.3.1"
+  }
+}
