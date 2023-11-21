@@ -8,6 +8,16 @@
 2. Kliknij w przycisk "Fork" aby utworzyć kopię na twoim koncie
 3. W razie potrzeby zaloguj się na swoje konto na replit.com i kontynuuj pracę
 
+## Uruchom lokalnie
+
+```bash
+npm install
+npm test
+npm start
+```
+
+Testy stworzone przy pomocy biblioteki [Jest - zobacz dokumentację](https://jestjs.io/docs/getting-started)
+
 ## Zadanie
 
 W pliku `index.ts` znajduje się przykładowy kod zgłoszony do Code Review. Na podstawie informacji ze szkolenia przejdź przez kolejne kroki procesu Code Review wspomaganego przez asystenta AI. Uzupełnij brakujące testy.
