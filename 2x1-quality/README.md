@@ -1,6 +1,6 @@
 # Code Review z Asystentem AI
 
-W pliku `index.js` znajduje się przykładowy kod zgłoszony do Code Review. Na podstawie informacji ze szkolenia przejdź przez kolejne kroki procesu Code Review wspomaganego przez asystenta AI. Uzupełnij brakujące testy.
+W pliku `index.ts` znajduje się przykładowy kod zgłoszony do Code Review. Na podstawie informacji ze szkolenia przejdź przez kolejne kroki procesu Code Review wspomaganego przez asystenta AI. Uzupełnij brakujące testy.
 
 ## Logika biznesowa
 

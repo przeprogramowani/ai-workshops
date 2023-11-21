@@ -1,4 +1,4 @@
-export function checkISBN(isbn) {
+export function checkISBN(isbn: string) {
   
   let filteredValue = ''
 
@@ -11,7 +11,7 @@ export function checkISBN(isbn) {
 
   const singleChars = filteredValue.split('')
 
-  const normalized = [];
+  const normalized: number[] = [];
 
   for (let i = 0; i < singleChars.length; i++) {
     const ch = singleChars[i];
