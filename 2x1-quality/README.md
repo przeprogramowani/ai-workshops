@@ -1,4 +1,4 @@
-# Code Review z Asystentem AI
+# Testowanie z Asystentem AI
 
 ## Uruchom zdalnie
 
