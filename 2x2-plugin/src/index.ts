@@ -8,8 +8,6 @@ const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY
 });
 
-// createLoader("Pobieram odpowiedź z GPT-4");
-
 const stream = await openai.chat.completions.create({
   model: "gpt-4-1106-preview",
   stream: true,
@@ -33,7 +31,3 @@ const stream = await openai.chat.completions.create({
 for await (const chunk of stream) {
   process.stdout.write(chunk.choices[0]?.delta?.content || '');
 }
-
-// cancelLoader();
-
-// console.log(completion.data.choices[0].message.content);
