@@ -7,7 +7,7 @@
 *   reusability: { score: 7, description: "..." }  
 *  }
 *
-*  https://platform.openai.com/docs/guides/gpt/function-calling
+*  https://platform.openai.com/docs/guides/function-calling/function-calling
 */
 
 export const CODE_REVIEW_FORMATTER = {

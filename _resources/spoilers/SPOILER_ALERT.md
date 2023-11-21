@@ -59,9 +59,3 @@ export const CODE_REVIEW_FORMATTER = {
   },
 };
 ```
-
-Wyświetlanie odpowiedzi:
-
-```js
-console.log(JSON.parse(completion.data.choices[0].message.function_call.arguments));
-```

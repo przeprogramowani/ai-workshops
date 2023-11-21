@@ -1,8 +1,18 @@
 # Code Review z Asystentem AI
 
+## Uruchom zdalnie
+
+![](../_resources/img/fork-quality.png)
+
+1. Otwórz [projekt na replit.com](https://replit.com/@przeprogramowan/ISBNTesting)
+2. Kliknij w przycisk "Fork" aby utworzyć kopię na twoim koncie
+3. W razie potrzeby zaloguj się na swoje konto na replit.com i kontynuuj pracę
+
+## Zadanie
+
 W pliku `index.ts` znajduje się przykładowy kod zgłoszony do Code Review. Na podstawie informacji ze szkolenia przejdź przez kolejne kroki procesu Code Review wspomaganego przez asystenta AI. Uzupełnij brakujące testy.
 
-## Logika biznesowa
+### Logika biznesowa
 
 Książki są identyfikowane przez numery ISBN-10. Numery te zwykle zawierają myślniki, i przykładowo wyglądają tak: 99921-58-10-7
 
