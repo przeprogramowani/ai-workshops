@@ -4,10 +4,6 @@
 
 W tym repozytorium znajdują się materiały do wykorzystania w trakcie szkolenia "Narzędzia AI dla programistów i zespołów produktowych"
 
-## Wymagania
-
-* [Node 20](https://nodejs.org/en)
-
 ## Autorzy
 
 * [Przemek Smyrdek](https://www.linkedin.com/in/psmyrdek/)
