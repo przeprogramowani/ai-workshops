@@ -4,7 +4,7 @@
   "description": "Plugin do automatycznego przeprowadzania Code Review z wykorzystaniem GPT-4",
   "main": "src/index.ts",
   "scripts": {
-    "start": "npx tsx src/index.ts"
+    "start": "tsx src/index.ts"
   },
   "author": "przeprogramowani@gmail.com",
   "license": "ISC",
