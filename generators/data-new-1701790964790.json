@@ -1,0 +1,461 @@
+[
+  {
+    "data_dodania": "2023-10-01",
+    "autor": "Jan Kowalski",
+    "komentarz": "Gra w szachy jest całkiem intuicyjna, ale brakuje mi bardziej zaawansowanych funkcji analitycznych po zakończeniu partii.",
+    "ocena": 4,
+    "reputacja_autora": 5,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "web"
+  },
+  {
+    "data_dodania": "2023-10-03",
+    "autor": "Ewa Nowak",
+    "komentarz": "Pomimo kilku rund w pokera, nadal mam problem z zapamiętaniem układów kart, przydałaby się lepsza pomoc w grze.",
+    "ocena": 3,
+    "reputacja_autora": 4,
+    "kategoria": "poradniki_support",
+    "platforma": "mobile_android"
+  },
+  {
+    "data_dodania": "2023-10-05",
+    "autor": "Marek Wiśniewski",
+    "komentarz": "Częste błędy przy ładowaniu gry Monopoly są frustrujące. Utrata połączenia psuje całą zabawę.",
+    "ocena": 2,
+    "reputacja_autora": 3,
+    "kategoria": "problemy_techniczne",
+    "platforma": "mobile_ios"
+  },
+  {
+    "data_dodania": "2023-10-07",
+    "autor": "Ania Kwiatkowska",
+    "komentarz": "Interfejs w ruletce jest czytelny, ale nie mogę się przyzwyczaić do zmiany kolorów stołu.",
+    "ocena": 3,
+    "reputacja_autora": 4,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "web"
+  },
+  {
+    "data_dodania": "2023-10-10",
+    "autor": "Tomasz Zielinski",
+    "komentarz": "Support odpowiada standardowymi frazami, nie pomagając w rozwiązaniu mojego problemu z logowaniem.",
+    "ocena": 2,
+    "reputacja_autora": 2,
+    "kategoria": "poradniki_support",
+    "platforma": "mobile_android"
+  },
+  {
+    "data_dodania": "2023-10-12",
+    "autor": "Karolina Lewandowska",
+    "komentarz": "Czy tylko mnie irytują te ciągłe aktualizacje w grze w Scrabble? Czasem nie można nawet zacząć rozgrywki.",
+    "ocena": 2,
+    "reputacja_autora": 3,
+    "kategoria": "problemy_techniczne",
+    "platforma": "mobile_ios"
+  },
+  {
+    "data_dodania": "2023-10-15",
+    "autor": "Piotr Szymański",
+    "komentarz": "Black Jack trochę za wolno się wczytuje. Poza tym interfejs jest ok.",
+    "ocena": 3,
+    "reputacja_autora": 4,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "web"
+  },
+  {
+    "data_dodania": "2023-10-18",
+    "autor": "Monika Kozłowska",
+    "komentarz": "Poradnik do gry w warcaby jest niekompletny. Brakowało mi informacji o podstawowych strategiach.",
+    "ocena": 3,
+    "reputacja_autora": 4,
+    "kategoria": "poradniki_support",
+    "platforma": "mobile_android"
+  },
+  {
+    "data_dodania": "2023-10-20",
+    "autor": "anonim",
+    "komentarz": "Na iOSie sloty się zacinają. Robi się to coraz częstsze i zaczyna być nie do przyjęcia.",
+    "ocena": 1,
+    "reputacja_autora": 3,
+    "kategoria": "problemy_techniczne",
+    "platforma": "mobile_ios"
+  },
+  {
+    "data_dodania": "2023-10-23",
+    "autor": "Grzegorz Pawłowski",
+    "komentarz": "Kółko i krzyżyk zbyt proste, brak wyzwań, interfejs bez zarzutu.",
+    "ocena": 3,
+    "reputacja_autora": 3,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "web"
+  },
+  {
+    "data_dodania": "2023-10-25",
+    "autor": "Dorota Majewska",
+    "komentarz": "Zgłosiłam problem z nieprawidłowym naliczeniem punktów w Scrabble, ale nie dostałam jeszcze odpowiedzi.",
+    "ocena": 2,
+    "reputacja_autora": 3,
+    "kategoria": "poradniki_support",
+    "platforma": "mobile_android"
+  },
+  {
+    "data_dodania": "2023-10-28",
+    "autor": "Rafał Kamiński",
+    "komentarz": "Problemy z połączeniem podczas gry w pokera na Androidzie to już norma. Kiedy to naprawicie?",
+    "ocena": 1,
+    "reputacja_autora": 2,
+    "kategoria": "problemy_techniczne",
+    "platforma": "mobile_android"
+  },
+  {
+    "data_dodania": "2023-11-01",
+    "autor": "Alicja Zalewska",
+    "komentarz": "Monopoly fajnie się gra, ale opcje personalizacji pionków mogłyby być bardziej rozbudowane.",
+    "ocena": 4,
+    "reputacja_autora": 5,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "web"
+  },
+  {
+    "data_dodania": "2023-11-03",
+    "autor": "anonim",
+    "komentarz": "Instrukcja do ruletki mogłaby być bardziej szczegółowa. Nie każdy jest ekspertem.",
+    "ocena": 3,
+    "reputacja_autora": 1,
+    "kategoria": "poradniki_support",
+    "platforma": "mobile_ios"
+  },
+  {
+    "data_dodania": "2023-11-05",
+    "autor": "Bartosz Jabłoński",
+    "komentarz": "Gra w sloty na iOS działa coraz gorzej. Brak optymalizacji?",
+    "ocena": 1,
+    "reputacja_autora": 2,
+    "kategoria": "problemy_techniczne",
+    "platforma": "mobile_ios"
+  },
+  {
+    "data_dodania": "2023-11-08",
+    "autor": "Katarzyna Dąbrowska",
+    "komentarz": "Opcje dostosowania avatara są ograniczone. Chciałabym więcej możliwości personalizacji.",
+    "ocena": 3,
+    "reputacja_autora": 4,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "web"
+  },
+  {
+    "data_dodania": "2023-11-10",
+    "autor": "anonim",
+    "komentarz": "Dlaczego nie ma porządnych tutoriali do gier planszowych? Musiałem szukać zasad na zewnętrznych stronach.",
+    "ocena": 2,
+    "reputacja_autora": 1,
+    "kategoria": "poradniki_support",
+    "platforma": "mobile_android"
+  },
+  {
+    "data_dodania": "2023-11-12",
+    "autor": "Michał Nowicki",
+    "komentarz": "Gra w szachy przez przeglądarkę często gubi ruchy. To niepoważne.",
+    "ocena": 1,
+    "reputacja_autora": 3,
+    "kategoria": "problemy_techniczne",
+    "platforma": "web"
+  },
+  {
+    "data_dodania": "2023-11-15",
+    "autor": "anonim",
+    "komentarz": "Cieszę się, że jest ranking w grze w warcaby, ale jego interfejs jest nieintuicyjny.",
+    "ocena": 3,
+    "reputacja_autora": 2,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "mobile_android"
+  },
+  {
+    "data_dodania": "2023-11-18",
+    "autor": "Beata Jankowska",
+    "komentarz": "Obsługa klienta nie pomogła mi w odzyskaniu utraconych żetonów. Rozczarowana.",
+    "ocena": 2,
+    "reputacja_autora": 3,
+    "kategoria": "poradniki_support",
+    "platforma": "mobile_ios"
+  },
+  {
+    "data_dodania": "2023-11-20",
+    "autor": "Krzysztof Krawczyk",
+    "komentarz": "Znowu serwer nie działa podczas mojej najlepszej rundy w pokerze. Tracę przez to czas i pieniądze.",
+    "ocena": 1,
+    "reputacja_autora": 2,
+    "kategoria": "problemy_techniczne",
+    "platforma": "web"
+  },
+  {
+    "data_dodania": "2023-11-22",
+    "autor": "Magdalena Wójcik",
+    "komentarz": "Chciałabym zmieniać tło w grze w Scrabble, a nie tylko standardowe opcje.",
+    "ocena": 3,
+    "reputacja_autora": 4,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "mobile_android"
+  },
+  {
+    "data_dodania": "2023-11-25",
+    "autor": "Damian Malinowski",
+    "komentarz": "Gdzie znaleźć pełną listę zasad do Monopoly? Pomoc oferuje zbyt ogólne informacje.",
+    "ocena": 2,
+    "reputacja_autora": 3,
+    "kategoria": "poradniki_support",
+    "platforma": "web"
+  },
+  {
+    "data_dodania": "2023-11-28",
+    "autor": "anonim",
+    "komentarz": "Rozłączenia podczas gry w szachy to koszmar. Nie mogłem nawet dokończyć partii.",
+    "ocena": 1,
+    "reputacja_autora": 1,
+    "kategoria": "problemy_techniczne",
+    "platforma": "mobile_ios"
+  },
+  {
+    "data_dodania": "2023-12-01",
+    "autor": "Patrycja Sobczak",
+    "komentarz": "Wprowadzenie zmian w interfejsie podczas rozgrywki w ruletkę bez wcześniejszego uprzedzenia to zła decyzja.",
+    "ocena": 2,
+    "reputacja_autora": 4,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "web"
+  },
+  {
+    "data_dodania": "2023-12-03",
+    "autor": "Łukasz Mazur",
+    "komentarz": "Zabrakło mi w poradnikach wyjaśnienia strategii dla zaawansowanych graczy w pokera.",
+    "ocena": 2,
+    "reputacja_autora": 4,
+    "kategoria": "poradniki_support",
+    "platforma": "mobile_android"
+  },
+  {
+    "data_dodania": "2023-10-01",
+    "autor": "Patryk Nowak",
+    "komentarz": "Interfejs black jacka wymaga poprawy, ciężko się połapać w zakładach.",
+    "ocena": 4,
+    "reputacja_autora": 4,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "web"
+  },
+  {
+    "data_dodania": "2023-10-03",
+    "autor": "Ewa Kowalska",
+    "komentarz": "Mógłby być lepszy tutorial do pokera, szczególnie dla nowych graczy.",
+    "ocena": 3,
+    "reputacja_autora": 4,
+    "kategoria": "poradniki_support",
+    "platforma": "mobile_android"
+  },
+  {
+    "data_dodania": "2023-10-05",
+    "autor": "anonim",
+    "komentarz": "Czuje się zignorowany przez support, mój problem z płatnościami nie został szybko rozwiązany.",
+    "ocena": 2,
+    "reputacja_autora": 3,
+    "kategoria": "problemy_techniczne",
+    "platforma": "mobile_ios"
+  },
+  {
+    "data_dodania": "2023-10-08",
+    "autor": "Marek Jankowski",
+    "komentarz": "Brakuje możliwości personalizacji avatara w ruletce.",
+    "ocena": 3,
+    "reputacja_autora": 5,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "web"
+  },
+  {
+    "data_dodania": "2023-10-10",
+    "autor": "Agnieszka Białek",
+    "komentarz": "Sloty są ok, ale przez brak możliwości dostosowania stawek czuje się ograniczona.",
+    "ocena": 3,
+    "reputacja_autora": 4,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "mobile_android"
+  },
+  {
+    "data_dodania": "2023-10-12",
+    "autor": "anonim",
+    "komentarz": "Gdzie znajdę aktualne zasady gry w Monopoly? Te na stronie są niepełne.",
+    "ocena": 3,
+    "reputacja_autora": 3,
+    "kategoria": "poradniki_support",
+    "platforma": "web"
+  },
+  {
+    "data_dodania": "2023-10-16",
+    "autor": "Krzysztof Krawczyk",
+    "komentarz": "Po ostatniej aktualizacji scrabble często się zawiesza. Frustrujące.",
+    "ocena": 2,
+    "reputacja_autora": 4,
+    "kategoria": "problemy_techniczne",
+    "platforma": "mobile_ios"
+  },
+  {
+    "data_dodania": "2023-10-18",
+    "autor": "Sylwia Marecka",
+    "komentarz": "Nie mogę zrozumieć, jak działają bonusy w grze. Brak wyjaśnień.",
+    "ocena": 3,
+    "reputacja_autora": 5,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "web"
+  },
+  {
+    "data_dodania": "2023-10-20",
+    "autor": "Tomasz Zieliński",
+    "komentarz": "Warcaby online to świetna zabawa, ale poziom komputera jest za niski nawet na najwyższym poziomie trudności.",
+    "ocena": 3,
+    "reputacja_autora": 4,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "mobile_android"
+  },
+  {
+    "data_dodania": "2023-10-22",
+    "autor": "anonim",
+    "komentarz": "Na iOSie gra się przyjemnie, ale czasami ekran dotykowy nie reaguje. To psuje doświadczenie.",
+    "ocena": 2,
+    "reputacja_autora": 3,
+    "kategoria": "problemy_techniczne",
+    "platforma": "mobile_ios"
+  },
+  {
+    "data_dodania": "2023-10-25",
+    "autor": "Dorota Misztal",
+    "komentarz": "Brak możliwości wyboru tła stołu w pokerze to duży minus. Chciałabym coś więcej niż standardowy zielony stół.",
+    "ocena": 3,
+    "reputacja_autora": 4,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "web"
+  },
+  {
+    "data_dodania": "2023-10-28",
+    "autor": "anonim",
+    "komentarz": "Nie mogę znaleźć informacji jak dokładnie wygląda ranking w szachach. Poprawcie to.",
+    "ocena": 3,
+    "reputacja_autora": 3,
+    "kategoria": "poradniki_support",
+    "platforma": "mobile_android"
+  },
+  {
+    "data_dodania": "2023-11-01",
+    "autor": "Mateusz Górnik",
+    "komentarz": "Zbyt często pojawiają się błędy serwera podczas gry w Monopoly, przez co tracę postępy.",
+    "ocena": 2,
+    "reputacja_autora": 4,
+    "kategoria": "problemy_techniczne",
+    "platforma": "web"
+  },
+  {
+    "data_dodania": "2023-11-03",
+    "autor": "Katarzyna Nowak",
+    "komentarz": "Chciałabym móc ustawić własne reguły w Scrabble, a nie tylko grac na standardowych.",
+    "ocena": 3,
+    "reputacja_autora": 5,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "mobile_ios"
+  },
+  {
+    "data_dodania": "2023-11-06",
+    "autor": "Grzegorz Lis",
+    "komentarz": "Gra w kółko i krzyżyk powinna mieć opcję gry na większej planszy, obecne rozmiary szybko nudzą.",
+    "ocena": 3,
+    "reputacja_autora": 4,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "mobile_android"
+  },
+  {
+    "data_dodania": "2023-11-09",
+    "autor": "anonim",
+    "komentarz": "Gdzie jest pomoc techniczna? Czekam na odpowiedź od kilku dni w sprawie zawieszania się ruletki.",
+    "ocena": 1,
+    "reputacja_autora": 2,
+    "kategoria": "problemy_techniczne",
+    "platforma": "web"
+  },
+  {
+    "data_dodania": "2023-11-12",
+    "autor": "Izabela Marek",
+    "komentarz": "Zabrakło mi opcji zmiany kolorów kart w blackjacku. W innych grach to standard.",
+    "ocena": 2,
+    "reputacja_autora": 4,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "mobile_ios"
+  },
+  {
+    "data_dodania": "2023-11-15",
+    "autor": "Karol Wojtowicz",
+    "komentarz": "Na Androidzie często wychodzę z gry przypadkowymi gestami. Zróbcie zabezpieczenie przed tym.",
+    "ocena": 2,
+    "reputacja_autora": 5,
+    "kategoria": "problemy_techniczne",
+    "platforma": "mobile_android"
+  },
+  {
+    "data_dodania": "2023-11-18",
+    "autor": "Justyna Kwiatkowska",
+    "komentarz": "Czemu nie mogę zobaczyć statystyk moich gier w pokerze? To podstawowa funkcja.",
+    "ocena": 2,
+    "reputacja_autora": 4,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "web"
+  },
+  {
+    "data_dodania": "2023-11-21",
+    "autor": "anonim",
+    "komentarz": "Instrukcje gry w szachy są przestarzałe, proszę o aktualizację.",
+    "ocena": 2,
+    "reputacja_autora": 3,
+    "kategoria": "poradniki_support",
+    "platforma": "mobile_ios"
+  },
+  {
+    "data_dodania": "2023-11-24",
+    "autor": "Michał Rozwadowski",
+    "komentarz": "Gry planszowe dobrze się prezentują, ale nie można ustawić poziomu trudności przeciwnika komputerowego.",
+    "ocena": 2,
+    "reputacja_autora": 3,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "web"
+  },
+  {
+    "data_dodania": "2023-11-27",
+    "autor": "anonim",
+    "komentarz": "Pomoc techniczna nie odpowiada, a ja mam problem z logowaniem się na konto.",
+    "ocena": 1,
+    "reputacja_autora": 2,
+    "kategoria": "problemy_techniczne",
+    "platforma": "mobile_android"
+  },
+  {
+    "data_dodania": "2023-12-01",
+    "autor": "Paulina Gajos",
+    "komentarz": "Brak synchronizacji postępów między urządzeniami to duży minus, szczególnie jak się gra na telefonie i komputerze.",
+    "ocena": 2,
+    "reputacja_autora": 4,
+    "kategoria": "problemy_techniczne",
+    "platforma": "mobile_ios"
+  },
+  {
+    "data_dodania": "2023-12-04",
+    "autor": "anonim",
+    "komentarz": "Interfejs w wersji mobilnej jest nieintuicyjny, trudno się odnaleźć między zakładkami.",
+    "ocena": 1,
+    "reputacja_autora": 2,
+    "kategoria": "interfejs_rozgrywka",
+    "platforma": "mobile_android"
+  },
+  {
+    "data_dodania": "2023-12-07",
+    "autor": "Igor Wiśniewski",
+    "komentarz": "Tutorial do warcabów jest niewystarczający, a gra z komputerem jest zbyt łatwa nawet dla początkujących.",
+    "ocena": 1,
+    "reputacja_autora": 3,
+    "kategoria": "poradniki_support",
+    "platforma": "web"
+  }
+]
