@@ -1,6 +1,6 @@
 # AI Workshops by Przeprogramowani
 
-![](./_resources/img/logo.png)
+![](./.resources/img/logo.png)
 
 Main repository for the workshops "Generative AI for Software Engineers"
 

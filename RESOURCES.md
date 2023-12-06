@@ -1,6 +1,6 @@
 # AI Workshops by Przeprogramowani
 
-![](./_resources/logo.png)
+![](./.resources/logo.png)
 
 Poniżej znajdują się narzędzia, z których korzystamy w trakcie szkolenia "Narzędzia AI dla programistów i zespołów produktowych":
 

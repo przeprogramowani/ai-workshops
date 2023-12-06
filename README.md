@@ -1,6 +1,6 @@
 # AI Workshops by Przeprogramowani
 
-![](./_resources/img/logo.png)
+![](./.resources/img/logo.png)
 
 W tym repozytorium znajdują się materiały do wykorzystania w trakcie szkolenia "Narzędzia AI dla programistów i zespołów produktowych"
 
