@@ -1,0 +1,212 @@
+
+      {
+    "komentarze": [
+        {
+            "data_dodania": "2023-10-06",
+            "autor": "GamerMaster47",
+            "komentarz": "Niestety, ale wydajność pozostawia wiele do życzenia. Często doświadczam lagów.",
+            "ocena": 3,
+            "autor_reputacja": 4,
+            "kategoria": "performance",
+            "platforma": "mobile_android"
+        },
+        {
+            "data_dodania": "2023-10-07",
+            "autor": "SlotyJoanna",
+            "komentarz": "Gry slotowe są całkiem fajne, ale czasem gra się sama wyłącza. Mam nadzieję na szybką poprawę.",
+            "ocena": 2,
+            "autor_reputacja": 3,
+            "kategoria": "stability",
+            "platforma": "mobile_ios"
+        },
+        {
+            "data_dodania": "2023-10-10",
+            "autor": "SzczęśliwyPiotr",
+            "komentarz": "Ostatnia wygrana to było coś! Huuuge fun!",
+            "ocena": 9,
+            "autor_reputacja": 4,
+            "kategoria": "entertainment",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-10-15",
+            "autor": "anonimowy",
+            "komentarz": "Brakuje mi większej różnorodności gier, aczkolwiek te które są dostępne naprawdę mi się podobają.",
+            "ocena": 6,
+            "autor_reputacja": 3,
+            "kategoria": "diversity",
+            "platforma": "mobile_android"
+        },
+        {
+            "data_dodania": "2023-10-20",
+            "autor": "KasynoKról",
+            "komentarz": "Zdecydowanie najlepszy wybór gier slotowych, jakie kiedykolwiek widziałem. Polecam!",
+            "ocena": 8,
+            "autor_reputacja": 5,
+            "kategoria": "game variety",
+            "platforma": "mobile_ios"
+        },
+        {
+            "data_dodania": "2023-10-25",
+            "autor": "LuckyLuk",
+            "komentarz": "Drobne błędy irytują, ale ogólnie gra daje radę.",
+            "ocena": 4,
+            "autor_reputacja": 2,
+            "kategoria": "bugs",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-10-30",
+            "autor": "anonimowy",
+            "komentarz": "Dobra aplikacja, ale mam nadzieję, że te przestoje to tylko chwilowe problemy.",
+            "ocena": 5,
+            "autor_reputacja": 3,
+            "kategoria": "downtime",
+            "platforma": "mobile_android"
+        },
+        {
+            "data_dodania": "2023-11-06",
+            "autor": "SlotMaster3000",
+            "komentarz": "Oczekiwałem więcej po aktualizacji 2.0. Brak funkcji społecznościowych to duży minus.",
+            "ocena": 1,
+            "autor_reputacja": 3,
+            "kategoria": "social",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-11-08",
+            "autor": "GrażynaSloty",
+            "komentarz": "Gdzie te wszystkie obiecane gry? Czuję się rozczarowana.",
+            "ocena": 3,
+            "autor_reputacja": 4,
+            "kategoria": "game variety",
+            "platforma": "mobile_ios"
+        },
+        {
+            "data_dodania": "2023-11-10",
+            "autor": "ZdesperowanyTomek",
+            "komentarz": "Bez kontroli wydatków łatwo o przegraną fortunę. Uważajcie!",
+            "ocena": 2,
+            "autor_reputacja": 2,
+            "kategoria": "wellbeing",
+            "platforma": "mobile_android"
+        },
+        {
+            "data_dodania": "2023-11-12",
+            "autor": "anonimowy",
+            "komentarz": "Wydajność jest zauważalnie lepsza, ale to nie wszystko w grach online.",
+            "ocena": 8,
+            "autor_reputacja": 3,
+            "kategoria": "performance",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-11-14",
+            "autor": "SlotyMagda",
+            "komentarz": "Fajnie, że są mniej błędy, ale gdzie opcje społecznościowe? To była najlepsza część Huuuge Casino.",
+            "ocena": 2,
+            "autor_reputacja": 5,
+            "kategoria": "social",
+            "platforma": "mobile_ios"
+        },
+        {
+            "data_dodania": "2023-11-16",
+            "autor": "Krzysiek777",
+            "komentarz": "Stabilność gry jest teraz ok, ale czuję się trochę odizolowany od innych graczy.",
+            "ocena": 7,
+            "autor_reputacja": 4,
+            "kategoria": "social",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-11-18",
+            "autor": "GraczAnonim",
+            "komentarz": "Poprawili wydajność, ale gdzie są nowe gry? Czuję się jakbym grał w tę samą grę co zawsze.",
+            "ocena": 3,
+            "autor_reputacja": 1,
+            "kategoria": "engagement",
+            "platforma": "mobile_android"
+        },
+        {
+            "data_dodania": "2023-11-20",
+            "autor": "JackpotJan",
+            "komentarz": "Super wydajność po ostatniej aktualizacji. Brakuje mi jednak opcji grania ze znajomymi.",
+            "ocena": 6,
+            "autor_reputacja": 5,
+            "kategoria": "social",
+            "platforma": "mobile_ios"
+        },
+        {
+            "data_dodania": "2023-11-22",
+            "autor": "SlotFanatic",
+            "komentarz": "Gry są całkiem niezłe, ale czuję się ograniczony bez nowości.",
+            "ocena": 5,
+            "autor_reputacja": 4,
+            "kategoria": "engagement",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-11-24",
+            "autor": "KasynoKasia",
+            "komentarz": "Czuję się trochę oszukana. Gdzie są obiecane aktualizacje i nowe funkcje?",
+            "ocena": 1,
+            "autor_reputacja": 3,
+            "kategoria": "updates",
+            "platforma": "mobile_android"
+        },
+        {
+            "data_dodania": "2023-11-26",
+            "autor": "LuckyLuke",
+            "komentarz": "Nie mogę się doczekać, kiedy dodadzą więcej gier. Na razie jest nudno.",
+            "ocena": 3,
+            "autor_reputacja": 4,
+            "kategoria": "engagement",
+            "platforma": "mobile_ios"
+        },
+        {
+            "data_dodania": "2023-11-28",
+            "autor": "SlotyAda",
+            "komentarz": "Wydajność to plus, ale brakuje mi opcji gry z przyjaciółmi.",
+            "ocena": 6,
+            "autor_reputacja": 2,
+            "kategoria": "social",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-11-30",
+            "autor": "anonimowy",
+            "komentarz": "Zaktualizowali platformę, ale zapomnieli dodać to, co najważniejsze - społeczność.",
+            "ocena": 4,
+            "autor_reputacja": 3,
+            "kategoria": "social",
+            "platforma": "mobile_android"
+        },
+        {
+            "data_dodania": "2023-12-02",
+            "autor": "GraczZuza",
+            "komentarz": "Po aktualizacji gra działa płynniej, ale czuję się osamotniona bez możliwości gry z innymi.",
+            "ocena": 7,
+            "autor_reputacja": 5,
+            "kategoria": "social",
+            "platforma": "mobile_ios"
+        },
+        {
+            "data_dodania": "2023-12-04",
+            "autor": "SlotyWojtek",
+            "komentarz": "Dobrze, że poprawili stabilność, ale gdzie są nowości?",
+            "ocena": 5,
+            "autor_reputacja": 4,
+            "kategoria": "updates",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-12-06",
+            "autor": "GamerGirl",
+            "komentarz": "Miło zobaczyć, że gra działa lepiej, ale bez możliwości grania z innymi straciła swój urok.",
+            "ocena": 2,
+            "autor_reputacja": 5,
+            "kategoria": "social",
+            "platforma": "mobile_android"
+        }
+    ]
+}

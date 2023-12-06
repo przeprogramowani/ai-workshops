@@ -1,0 +1,463 @@
+{
+  "comments": [
+    {
+      "date_added": "2023-10-01",
+      "author": "GameMaster123",
+      "comment": "The user engagement level is decent, but the rewards system feels a little stingy, which can be frustrating.",
+      "rating": 3,
+      "author_reputation": 4,
+      "category": "interface_gameplay",
+      "platform": "web"
+    },
+    {
+      "date_added": "2023-10-02",
+      "author": "LuckyLuke",
+      "comment": "Nice variety of games, but the slots seem to favor premium players a bit too much.",
+      "rating": 4,
+      "author_reputation": 3,
+      "category": "interface_gameplay",
+      "platform": "mobile_android"
+    },
+    {
+      "date_added": "2023-10-03",
+      "author": "Anonymous",
+      "comment": "Had some technical issues with the blackjack game. It kept freezing on my Android device.",
+      "rating": 2,
+      "author_reputation": 2,
+      "category": "technical_issues",
+      "platform": "mobile_android"
+    },
+    {
+      "date_added": "2023-10-04",
+      "author": "ChessQueen",
+      "comment": "The tutorials are quite helpful for beginners, especially in chess and checkers.",
+      "rating": 6,
+      "author_reputation": 3,
+      "category": "tutorials_support",
+      "platform": "web"
+    },
+    {
+      "date_added": "2023-10-05",
+      "author": "Anonymous",
+      "comment": "Game rules are easy to understand, but the personalization options are lacking.",
+      "rating": 5,
+      "author_reputation": 2,
+      "category": "interface_gameplay",
+      "platform": "mobile_ios"
+    },
+    {
+      "date_added": "2023-10-06",
+      "author": "PokerPro987",
+      "comment": "Poker tables are great, but they could improve the socialization features.",
+      "rating": 7,
+      "author_reputation": 5,
+      "category": "social_features",
+      "platform": "web"
+    },
+    {
+      "date_added": "2023-10-07",
+      "author": "SlotJunky",
+      "comment": "Graphics are top-notch, but the app crashes too often on my iPhone.",
+      "rating": 3,
+      "author_reputation": 4,
+      "category": "technical_issues",
+      "platform": "mobile_ios"
+    },
+    {
+      "date_added": "2023-10-08",
+      "author": "Anonymous",
+      "comment": "The measures for gambling addiction are a good start, but could be more comprehensive.",
+      "rating": 6,
+      "author_reputation": 3,
+      "category": "gambling_addiction_control",
+      "platform": "web"
+    },
+    {
+      "date_added": "2023-10-09",
+      "author": "MonopolyManiac",
+      "comment": "Monopoly game is fun but feels somewhat rigged to make you spend money.",
+      "rating": 4,
+      "author_reputation": 2,
+      "category": "game_balance",
+      "platform": "mobile_android"
+    },
+    {
+      "date_added": "2023-10-10",
+      "author": "Anonymous",
+      "comment": "Game variety is okay, but I wish there were more strategy games like chess.",
+      "rating": 5,
+      "author_reputation": 1,
+      "category": "variety_of_games",
+      "platform": "web"
+    },
+    {
+      "date_added": "2023-10-11",
+      "author": "JackpotJane",
+      "comment": "The slots have some of the best graphics I've seen, but payouts could be better.",
+      "rating": 8,
+      "author_reputation": 5,
+      "category": "interface_gameplay",
+      "platform": "mobile_ios"
+    },
+    {
+      "date_added": "2023-10-12",
+      "author": "Anonymous",
+      "comment": "Scrabble game is surprisingly well made, it's kept me engaged for hours.",
+      "rating": 9,
+      "author_reputation": 3,
+      "category": "interface_gameplay",
+      "platform": "web"
+    },
+    {
+      "date_added": "2023-10-13",
+      "author": "CheckersChamp",
+      "comment": "I enjoy the checkers tournaments, but sometimes the app lags and ruins the experience.",
+      "rating": 3,
+      "author_reputation": 4,
+      "category": "technical_issues",
+      "platform": "mobile_android"
+    },
+    {
+      "date_added": "2023-10-14",
+      "author": "RouletteRookie",
+      "comment": "The roulette wheel animation is smooth, but I'm not sure if the game is fairly balanced.",
+      "rating": 7,
+      "author_reputation": 2,
+      "category": "interface_gameplay",
+      "platform": "web"
+    },
+    {
+      "date_added": "2023-10-15",
+      "author": "Anonymous",
+      "comment": "The platform needs better optimization for Android tablets, games crash too often.",
+      "rating": 4,
+      "author_reputation": 1,
+      "category": "technical_issues",
+      "platform": "mobile_android"
+    },
+    {
+      "date_added": "2023-10-16",
+      "author": "TicTacToeMaster",
+      "comment": "Tic-tac-toe against the computer is surprisingly challenging. Great for quick fun!",
+      "rating": 8,
+      "author_reputation": 4,
+      "category": "interface_gameplay",
+      "platform": "mobile_ios"
+    },
+    {
+      "date_added": "2023-10-17",
+      "author": "DiceDiva",
+      "comment": "The Monopoly game could use more social features to play with friends.",
+      "rating": 6,
+      "author_reputation": 3,
+      "category": "social_features",
+      "platform": "web"
+    },
+    {
+      "date_added": "2023-10-18",
+      "author": "Anonymous",
+      "comment": "Interface is user-friendly, but my account was hacked and support was not helpful.",
+      "rating": 2,
+      "author_reputation": 2,
+      "category": "security_and_privacy",
+      "platform": "web"
+    },
+    {
+      "date_added": "2023-10-19",
+      "author": "BlackJackBandit",
+      "comment": "Blackjack feels authentic and I appreciate the game's balance between free and premium features.",
+      "rating": 8,
+      "author_reputation": 5,
+      "category": "game_balance",
+      "platform": "mobile_android"
+    },
+    {
+      "date_added": "2023-10-20",
+      "author": "SlotsSally",
+      "comment": "The slots game has great sound effects, but the game froze during a jackpot roll.",
+      "rating": 5,
+      "author_reputation": 3,
+      "category": "technical_issues",
+      "platform": "mobile_ios"
+    },
+    {
+      "date_added": "2023-10-21",
+      "author": "Anonymous",
+      "comment": "I had high hopes for customization, but it's quite limited. Can't even change avatar images.",
+      "rating": 3,
+      "author_reputation": 1,
+      "category": "personalization",
+      "platform": "mobile_android"
+    },
+    {
+      "date_added": "2023-10-22",
+      "author": "PokerFacePaul",
+      "comment": "Poker games are immersive, but I've encountered some rude players and the reporting system is weak.",
+      "rating": 4,
+      "author_reputation": 4,
+      "category": "social_features",
+      "platform": "web"
+    },
+    {
+      "date_added": "2023-10-23",
+      "author": "Anonymous",
+      "comment": "There's a good selection of games, but I'm disappointed with the lack of new additions lately.",
+      "rating": 5,
+      "author_reputation": 3,
+      "category": "variety_of_games",
+      "platform": "mobile_ios"
+    },
+    {
+      "date_added": "2023-10-24",
+      "author": "RouletteRanger",
+      "comment": "The roulette game is fair and enjoyable, but could use more betting options.",
+      "rating": 7,
+      "author_reputation": 2,
+      "category": "interface_gameplay",
+      "platform": "web"
+    },
+    {
+      "date_added": "2023-10-25",
+      "author": "ChessKnight",
+      "comment": "Chess game is great for learning, but the AI is sometimes too easy to beat.",
+      "rating": 6,
+      "author_reputation": 4,
+      "category": "tutorials_support",
+      "platform": "mobile_android"
+    },
+    {
+      "date_added": "2023-10-26",
+      "author": "Anonymous",
+      "comment": "The mobile app for iOS needs better optimization, it's draining my battery like crazy.",
+      "rating": 3,
+      "author_reputation": 2,
+      "category": "technical_issues",
+      "platform": "mobile_ios"
+    },
+    {
+      "date_added": "2023-10-27",
+      "author": "SlotSamurai",
+      "comment": "The graphics on the slot games are stunning, but they seem to be getting less frequent updates.",
+      "rating": 7,
+      "author_reputation": 3,
+      "category": "interface_gameplay",
+      "platform": "web"
+    },
+    {
+      "date_added": "2023-10-28",
+      "author": "Anonymous",
+      "comment": "The sound design in the games is usually good, but there's a bug where the sound cuts out randomly.",
+      "rating": 4,
+      "author_reputation": 1,
+      "category": "technical_issues",
+      "platform": "mobile_android"
+    },
+    {
+      "date_added": "2023-10-29",
+      "author": "CheckersChamp",
+      "comment": "Checkers is well-implemented, but I feel like there aren't enough players to compete with.",
+      "rating": 5,
+      "author_reputation": 4,
+      "category": "social_features",
+      "platform": "mobile_ios"
+    },
+    {
+      "date_added": "2023-10-30",
+      "author": "Anonymous",
+      "comment": "The casino games are fine, but there's a concerning lack of responsible gambling resources.",
+      "rating": 6,
+      "author_reputation": 2,
+      "category": "gambling_addiction_control",
+      "platform": "web"
+    },
+    {
+      "date_added": "2023-10-31",
+      "author": "MonopolyMaster",
+      "comment": "Monopoly game is fun and engaging but lacks meaningful updates to keep it fresh.",
+      "rating": 5,
+      "author_reputation": 3,
+      "category": "interface_gameplay",
+      "platform": "mobile_android"
+    },
+    {
+      "date_added": "2023-11-01",
+      "author": "Anonymous",
+      "comment": "The interface on the web platform is becoming outdated and needs a revamp.",
+      "rating": 4,
+      "author_reputation": 2,
+      "category": "interface_gameplay",
+      "platform": "web"
+    },
+    {
+      "date_added": "2023-11-02",
+      "author": "PokerPal",
+      "comment": "The poker experience is immersive, but the lack of new features is disappointing.",
+      "rating": 3,
+      "author_reputation": 4,
+      "category": "interface_gameplay",
+      "platform": "mobile_ios"
+    },
+    {
+      "date_added": "2023-11-03",
+      "author": "Anonymous",
+      "comment": "App security seems solid, but there was a data breach recently, which is worrying.",
+      "rating": 2,
+      "author_reputation": 3,
+      "category": "security_and_privacy",
+      "platform": "mobile_android"
+    },
+    {
+      "date_added": "2023-11-04",
+      "author": "BlackjackBelle",
+      "comment": "The tutorials are lacking depth, especially for newcomers to blackjack.",
+      "rating": 5,
+      "author_reputation": 3,
+      "category": "tutorials_support",
+      "platform": "web"
+    },
+    {
+      "date_added": "2023-11-05",
+      "author": "Anonymous",
+      "comment": "Game balance is tilting too much in favor of paying players, making it less enjoyable for free users.",
+      "rating": 4,
+      "author_reputation": 1,
+      "category": "game_balance",
+      "platform": "mobile_ios"
+    },
+    {
+      "date_added": "2023-11-06",
+      "author": "SlotSavvy",
+      "comment": "The slots game has lost its charm with repetitive themes and no new innovation.",
+      "rating": 3,
+      "author_reputation": 2,
+      "category": "variety_of_games",
+      "platform": "mobile_android"
+    },
+    {
+      "date_added": "2023-11-07",
+      "author": "ChessChampion",
+      "comment": "Chess gameplay is great, but I'm seeing more glitches as updates roll out.",
+      "rating": 6,
+      "author_reputation": 5,
+      "category": "technical_issues",
+      "platform": "web"
+    },
+    {
+      "date_added": "2023-11-08",
+      "author": "RouletteRoyalty",
+      "comment": "The roulette game has become predictable and less exciting with recent changes.",
+      "rating": 5,
+      "author_reputation": 4,
+      "category": "interface_gameplay",
+      "platform": "mobile_ios"
+    },
+    {
+      "date_added": "2023-11-09",
+      "author": "Anonymous",
+      "comment": "The app's performance on Android has deteriorated, causing frequent crashes.",
+      "rating": 2,
+      "author_reputation": 3,
+      "category": "technical_issues",
+      "platform": "mobile_android"
+    },
+    {
+      "date_added": "2023-11-10",
+      "author": "PokerVirtuoso",
+      "comment": "Poker game's user interface needs improvement, buttons are too small on mobile devices.",
+      "rating": 4,
+      "author_reputation": 2,
+      "category": "interface_gameplay",
+      "platform": "mobile_ios"
+    },
+    {
+      "date_added": "2023-11-11",
+      "author": "BingoBoss",
+      "comment": "Bingo games are a good way to pass time, but there's nothing that really stands out.",
+      "rating": 7,
+      "author_reputation": 3,
+      "category": "interface_gameplay",
+      "platform": "web"
+    },
+    {
+      "date_added": "2023-11-12",
+      "author": "Anonymous",
+      "comment": "Support was not very responsive when I had issues with my account.",
+      "rating": 3,
+      "author_reputation": 1,
+      "category": "tutorials_support",
+      "platform": "mobile_android"
+    },
+    {
+      "date_added": "2023-11-13",
+      "author": "ScrabbleStrategist",
+      "comment": "Scrabble game lacks adequate cheat prevention, making some matches unfair.",
+      "rating": 4,
+      "author_reputation": 4,
+      "category": "technical_issues",
+      "platform": "mobile_ios"
+    },
+    {
+      "date_added": "2023-11-14",
+      "author": "Anonymous",
+      "comment": "Graphics are still good, but I've noticed more lag in the animation recently.",
+      "rating": 5,
+      "author_reputation": 2,
+      "category": "technical_issues",
+      "platform": "web"
+    },
+    {
+      "date_added": "2023-11-15",
+      "author": "MonopolyMogul",
+      "comment": "Monopoly game is great for social play, but needs more ways to interact with friends in-game.",
+      "rating": 7,
+      "author_reputation": 3,
+      "category": "social_features",
+      "platform": "mobile_android"
+    },
+    {
+      "date_added": "2023-11-16",
+      "author": "TicTacToeTitan",
+      "comment": "The simplicity of tic-tac-toe is nice, but it gets boring with no variation or challenges.",
+      "rating": 6,
+      "author_reputation": 4,
+      "category": "interface_gameplay",
+      "platform": "web"
+    },
+    {
+      "date_added": "2023-11-17",
+      "author": "DiceDynamo",
+      "comment": "The personalization options in Monopoly are fun, but there should be more choices.",
+      "rating": 7,
+      "author_reputation": 5,
+      "category": "personalization",
+      "platform": "mobile_ios"
+    },
+    {
+      "date_added": "2023-11-18",
+      "author": "Anonymous",
+      "comment": "The game selection is wide, but the new additions feel like reskins of older games.",
+      "rating": 4,
+      "author_reputation": 2,
+      "category": "variety_of_games",
+      "platform": "web"
+    },
+    {
+      "date_added": "2023-11-19",
+      "author": "Anonymous",
+      "comment": "I've experienced several disconnections during multiplayer games, which is quite frustrating.",
+      "rating": 2,
+      "author_reputation": 1,
+      "category": "technical_issues",
+      "platform": "mobile_android"
+    },
+    {
+      "date_added": "2023-11-20",
+      "author": "CheckersConnoisseur",
+      "comment": "Checkers is a classic, but there's a need for more competitive matchmaking.",
+      "rating": 5,
+      "author_reputation": 2,
+      "category": "interface_gameplay",
+      "platform": "mobile_ios"
+    }
+  ]
+}

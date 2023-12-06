@@ -1,0 +1,231 @@
+
+        {
+            "komentarze": [
+                {
+                    "data_dodania": "2023-10-06",
+                    "autor": "SlotMaster87",
+                    "komentarz": "Gra ma potencjał, ale dość często zdarzają się losowe błędy, które potrafią zepsuć zabawę.",
+                    "ocena": 3,
+                    "autor_reputacja": 4,
+                    "kategoria": "Wykonanie techniczne",
+                    "platforma": "mobile_android"
+                },
+                {
+                    "data_dodania": "2023-10-10",
+                    "autor": "KrzysiekKox",
+                    "komentarz": "Świetna grafika i dźwięki, jednak czasem się zacina. Czekam na poprawki w nowej aktualizacji!",
+                    "ocena": 3,
+                    "autor_reputacja": 3,
+                    "kategoria": "Wykonanie techniczne",
+                    "platforma": "web"
+                },
+                {
+                    "data_dodania": "2023-10-15",
+                    "autor": "VegasFan92",
+                    "komentarz": "Automaty działają płynnie, a wybór gier jest całkiem niezły. Jestem zadowolony!",
+                    "ocena": 8,
+                    "autor_reputacja": 5,
+                    "kategoria": "Rozgrywka",
+                    "platforma": "mobile_ios"
+                },
+                {
+                    "data_dodania": "2023-10-20",
+                    "autor": "anonimowy",
+                    "komentarz": "Czuć, że to kasyno online ma potencjał, ale wydajność pozostawia sporo do życzenia.",
+                    "ocena": 2,
+                    "autor_reputacja": 2,
+                    "kategoria": "Wykonanie techniczne",
+                    "platforma": "mobile_android"
+                },
+                {
+                    "data_dodania": "2023-11-06",
+                    "autor": "Lucky777",
+                    "komentarz": "Nowa aktualizacja polepszyła wydajność, jednak brakuje mi możliwości gry z przyjaciółmi.",
+                    "ocena": 6,
+                    "autor_reputacja": 4,
+                    "kategoria": "Social",
+                    "platforma": "web"
+                },
+                {
+                    "data_dodania": "2023-11-07",
+                    "autor": "CasinoCrusher",
+                    "komentarz": "Niestety, po aktualizacji gra stała się mniej wciągająca. Bardzo brakuje różnorodności gier.",
+                    "ocena": 2,
+                    "autor_reputacja": 2,
+                    "kategoria": "Engagement",
+                    "platforma": "mobile_ios"
+                },
+                {
+                    "data_dodania": "2023-11-10",
+                    "autor": "JackpotMaster",
+                    "komentarz": "Interfejs mógłby być mniej frustrujący, ciężko się połapać po ostatnich zmianach.",
+                    "ocena": 2,
+                    "autor_reputacja": 3,
+                    "kategoria": "Wellbeing",
+                    "platforma": "mobile_android"
+                },
+                {
+                    "data_dodania": "2023-11-12",
+                    "autor": "FortuneSeeker",
+                    "komentarz": "Mniejsze błędy i lepsza wydajność to plus, ale problem z uzależnieniem jest poważny i potrzebna jest lepsza kontrola wydatków.",
+                    "ocena": 4,
+                    "autor_reputacja": 4,
+                    "kategoria": "Wellbeing",
+                    "platforma": "web"
+                },
+                {
+                    "data_dodania": "2023-11-15",
+                    "autor": "anonimowy",
+                    "komentarz": "Gdzie jest możliwość gry ze znajomymi? Bez tego kasyno online traci swoją społecznościową wartość.",
+                    "ocena": 1,
+                    "autor_reputacja": 1,
+                    "kategoria": "Social",
+                    "platforma": "mobile_ios"
+                },
+                {
+                    "data_dodania": "2023-11-20",
+                    "autor": "CasinoQueen",
+                    "komentarz": "Po aktualizacji gra chodzi jak marzenie! Nie mogę się doczekać pełnej funkcjonalności w 2024.",
+                    "ocena": 9,
+                    "autor_reputacja": 5,
+                    "kategoria": "Wykonanie techniczne",
+                    "platforma": "mobile_android"
+                }
+                ,{
+                    "data_dodania": "2023-11-22",
+                    "autor": "LuckyDuck",
+                    "komentarz": "Fajnie, że poprawili wydajność, ale bez społecznościowej warstwy gra szybko się nudzi.",
+                    "ocena": 3,
+                    "autor_reputacja": 2,
+                    "kategoria": "Social",
+                    "platforma": "web"
+                },
+                {
+                    "data_dodania": "2023-11-25",
+                    "autor": "anonimowy",
+                    "komentarz": "Chciałbym móc kontrolować swoje wydatki lepiej, obawiam się że gra staje się uzależniająca.",
+                    "ocena": 2,
+                    "autor_reputacja": 1,
+                    "kategoria": "Wellbeing",
+                    "platforma": "mobile_ios"
+                },
+                {
+                    "data_dodania": "2023-11-27",
+                    "autor": "anonimowy",
+                    "komentarz": "Po aktualizacji wydajność jest na plus, jednak oczekuję więcej gier i opcji społecznościowych.",
+                    "ocena": 5,
+                    "autor_reputacja": 3,
+                    "kategoria": "Engagement",
+                    "platforma": "mobile_android"
+                },
+                {
+                    "data_dodania": "2023-11-30",
+                    "autor": "SlotWizard",
+                    "komentarz": "Interfejs użytkownika jest lepszy, ale nadal brakuje mi tej 'iskry' w grze. Czekam na rozwój funkcji społecznościowych.",
+                    "ocena": 3,
+                    "autor_reputacja": 2,
+                    "kategoria": "Social",
+                    "platforma": "web"
+                },
+                {
+                    "data_dodania": "2023-12-01",
+                    "autor": "anonimowy",
+                    "komentarz": "Sporo się zmieniło, ale bez opcji gry z przyjaciółmi to po prostu kolejne solowe kasyno online.",
+                    "ocena": 1,
+                    "autor_reputacja": 1,
+                    "kategoria": "Social",
+                    "platforma": "mobile_ios"
+                },
+                {
+                    "data_dodania": "2023-12-03",
+                    "autor": "RichBet",
+                    "komentarz": "Wydajność gry jest teraz świetna, ale bardzo brakuje mi interakcji społecznych.",
+                    "ocena": 7,
+                    "autor_reputacja": 4,
+                    "kategoria": "Engagement",
+                    "platforma": "mobile_android"
+                },
+                {
+                    "data_dodania": "2023-12-04",
+                    "autor": "SlotGuru",
+                    "komentarz": "Widać, że technologia poszła do przodu, ale kasyno online bez elementu społecznościowego to jak kino bez filmów.",
+                    "ocena": 2,
+                    "autor_reputacja": 3,
+                    "kategoria": "Social",
+                    "platforma": "web"
+                },
+                {
+                    "data_dodania": "2023-12-05",
+                    "autor": "anonimowy",
+                    "komentarz": "Nowa wersja to krok w dobrym kierunku, ale bez funkcji społecznościowych za dużo tutaj nie zdziałam.",
+                    "ocena": 4,
+                    "autor_reputacja": 2,
+                    "kategoria": "Social",
+                    "platforma": "mobile_ios"
+                },
+                {
+                    "data_dodania": "2023-12-06",
+                    "autor": "JackpotJill",
+                    "komentarz": "Wreszcie bez błędów i zacinek, ale czemu nie mogę już grać z moimi znajomymi jak wcześniej?",
+                    "ocena": 6,
+                    "autor_reputacja": 5,
+                    "kategoria": "Social",
+                    "platforma": "mobile_android"
+                }
+                ,{
+                    "data_dodania": "2023-10-08",
+                    "autor": "GoldenFingers",
+                    "komentarz": "Gra oferuje świetne jackpoty, jednak losowe błędy potrafią zepsuć całą zabawę.",
+                    "ocena": 4,
+                    "autor_reputacja": 4,
+                    "kategoria": "Wykonanie techniczne",
+                    "platforma": "web"
+                },
+                {
+                    "data_dodania": "2023-10-18",
+                    "autor": "SevenLover",
+                    "komentarz": "Za każdym razem gdy gram, czuję dreszczyk emocji. Liczę na więcej automatów w przyszłości!",
+                    "ocena": 9,
+                    "autor_reputacja": 5,
+                    "kategoria": "Rozgrywka",
+                    "platforma": "mobile_android"
+                },
+                {
+                    "data_dodania": "2023-10-22",
+                    "autor": "anonimowy",
+                    "komentarz": "Dobrze wykonane sloty, jednak czasem wydajność pozostawia wiele do życzenia. Oczekuję poprawki!",
+                    "ocena": 4,
+                    "autor_reputacja": 3,
+                    "kategoria": "Wykonanie techniczne",
+                    "platforma": "mobile_ios"
+                },
+                {
+                    "data_dodania": "2023-10-25",
+                    "autor": "BetStar",
+                    "komentarz": "Przyjemne automaty, ale mam nadzieję, że nowa aktualizacja rozwiąże problem z wydajnością.",
+                    "ocena": 6,
+                    "autor_reputacja": 4,
+                    "kategoria": "Wykonanie techniczne",
+                    "platforma": "web"
+                },
+                {
+                    "data_dodania": "2023-10-30",
+                    "autor": "SpinAddict",
+                    "komentarz": "Automaty mają fajny vibe, ale czekam na stabilniejsze działanie po update.",
+                    "ocena": 5,
+                    "autor_reputacja": 3,
+                    "kategoria": "Wykonanie techniczne",
+                    "platforma": "mobile_android"
+                },
+                {
+                    "data_dodania": "2023-11-02",
+                    "autor": "SlotEnthusiast",
+                    "komentarz": "Dla miłośników slotów jak ja, to miejsce ma potencjał. Nie mogę się doczekać pełnej wersji!",
+                    "ocena": 8,
+                    "autor_reputacja": 5,
+                    "kategoria": "Rozgrywka",
+                    "platforma": "mobile_ios"
+                }
+            ]
+        }
+    

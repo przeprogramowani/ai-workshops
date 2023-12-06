@@ -1,0 +1,185 @@
+
+        {
+            "komentarze": [
+                {
+                    "data_dodania": "2023-10-06",
+                    "autor": "KasynoKról",
+                    "komentarz": "Gra była całkiem spoko, ale ostatnio dużo błędów. Czekam na update.",
+                    "ocena": 3,
+                    "autor_reputacja": 4,
+                    "kategoria": "Wykonanie",
+                    "platforma": "mobile_android"
+                },
+                {
+                    "data_dodania": "2023-10-15",
+                    "autor": "LuckyStrike",
+                    "komentarz": "Sporo się grało, ale te crashe są nie do zniesienia.",
+                    "ocena": 2,
+                    "autor_reputacja": 3,
+                    "kategoria": "Stabilność",
+                    "platforma": "web"
+                },
+                {
+                    "data_dodania": "2023-10-22",
+                    "autor": "SlotMaster",
+                    "komentarz": "Wciąż jest dużo do poprawy, ale grafika jest przyjemna.",
+                    "ocena": 5,
+                    "autor_reputacja": 5,
+                    "kategoria": "Grafika",
+                    "platforma": "mobile_ios"
+                },
+                {
+                    "data_dodania": "2023-10-28",
+                    "autor": "FortunaFan",
+                    "komentarz": "Przydałoby się więcej automatów, ale i tak jest fajnie.",
+                    "ocena": 6,
+                    "autor_reputacja": 4,
+                    "kategoria": "Wybór gier",
+                    "platforma": "web"
+                },
+                {
+                    "data_dodania": "2023-11-01",
+                    "autor": "VegasViva",
+                    "komentarz": "Odczuwam Vegas w domu! Super automaty!",
+                    "ocena": 9,
+                    "autor_reputacja": 5,
+                    "kategoria": "Doświadczenie",
+                    "platforma": "mobile_android"
+                },
+                {
+                    "data_dodania": "2023-11-06",
+                    "autor": "PixelPoker",
+                    "komentarz": "Po aktualizacji zniknęły problemy z wydajnością, ale gdzie możliwość gry ze znajomymi?",
+                    "ocena": 3,
+                    "autor_reputacja": 3,
+                    "kategoria": "Social",
+                    "platforma": "mobile_ios"
+                },
+                {
+                    "data_dodania": "2023-11-07",
+                    "autor": "anonimowy",
+                    "komentarz": "Nowe sloty są potrzebne ASAP!",
+                    "ocena": 2,
+                    "autor_reputacja": 2,
+                    "kategoria": "Engagement",
+                    "platforma": "web"
+                },
+                {
+                    "data_dodania": "2023-11-10",
+                    "autor": "GoldGambler",
+                    "komentarz": "Wydajniejsze, ale gdzie emocje? Gra się staje nudna.",
+                    "ocena": 3,
+                    "autor_reputacja": 4,
+                    "kategoria": "Engagement",
+                    "platforma": "mobile_android"
+                },
+                {
+                    "data_dodania": "2023-11-13",
+                    "autor": "JackpotJill",
+                    "komentarz": "Bardzo podoba mi się nowy interfejs!",
+                    "ocena": 8,
+                    "autor_reputacja": 4,
+                    "kategoria": "Interfejs",
+                    "platforma": "mobile_ios"
+                },
+                {
+                    "data_dodania": "2023-11-15",
+                    "autor": "anonimowy",
+                    "komentarz": "Brakuje mi starej wersji. Ta nowa jest jakieś... pusta.",
+                    "ocena": 3,
+                    "autor_reputacja": 2,
+                    "kategoria": "Engagement",
+                    "platforma": "web"
+                },
+                {
+                    "data_dodania": "2023-11-18",
+                    "autor": "AceHigh",
+                    "komentarz": "Bez znajomych to nie to samo. Wróćcie do poprzedniej wersji.",
+                    "ocena": 1,
+                    "autor_reputacja": 3,
+                    "kategoria": "Social",
+                    "platforma": "mobile_android"
+                },
+                {
+                    "data_dodania": "2023-11-20",
+                    "autor": "BingoBenny",
+                    "komentarz": "Chwilami dobra zabawa, ale czuję się osamotniony bez opcji społecznościowych.",
+                    "ocena": 4,
+                    "autor_reputacja": 3,
+                    "kategoria": "Social",
+                    "platforma": "mobile_ios"
+                },
+                {
+                    "data_dodania": "2023-11-23",
+                    "autor": "RollerCoaster",
+                    "komentarz": "Stabilność jest ok, ale czemu nie mogę już grać z moim kumplem?",
+                    "ocena": 4,
+                    "autor_reputacja": 4,
+                    "kategoria": "Social",
+                    "platforma": "web"
+                },
+                {
+                    "data_dodania": "2023-11-25",
+                    "autor": "anonimowy",
+                    "komentarz": "Szybciej się ładuje, ale potrzebujemy więcej interakcji.",
+                    "ocena": 3,
+                    "autor_reputacja": 2,
+                    "kategoria": "Social",
+                    "platforma": "mobile_android"
+                },
+                {
+                    "data_dodania": "2023-11-27",
+                    "autor": "CasinoConnoisseur",
+                    "komentarz": "Jestem pod wrażeniem wydajności po aktualizacji!",
+                    "ocena": 8,
+                    "autor_reputacja": 5,
+                    "kategoria": "Wydajność",
+                    "platforma": "web"
+                },
+                {
+                    "data_dodania": "2023-11-29",
+                    "autor": "SlotSlayer",
+                    "komentarz": "Przepisali na Rust i widać różnicę, ale czemu nie mogę zaprosić znajomych?",
+                    "ocena": 5,
+                    "autor_reputacja": 4,
+                    "kategoria": "Social",
+                    "platforma": "mobile_ios"
+                },
+                {
+                    "data_dodania": "2023-12-01",
+                    "autor": "LuckyLucy",
+                    "komentarz": "Mniej błędów, to na plus, ale gry bez znajomych tracą sens.",
+                    "ocena": 3,
+                    "autor_reputacja": 3,
+                    "kategoria": "Social",
+                    "platforma": "mobile_android"
+                },
+                {
+                    "data_dodania": "2023-12-03",
+                    "autor": "RouletteRita",
+                    "komentarz": "Stabilność ok, ale gdzie te opcje społecznościowe?",
+                    "ocena": 2,
+                    "autor_reputacja": 4,
+                    "kategoria": "Wydajność",
+                    "platforma": "web"
+                },
+                {
+                    "data_dodania": "2023-12-04",
+                    "autor": "VegasVeteran",
+                    "komentarz": "Gra stała się bardziej stabilna, ale brakuje jej 'duszy'.",
+                    "ocena": 4,
+                    "autor_reputacja": 5,
+                    "kategoria": "Ogólnie",
+                    "platforma": "mobile_ios"
+                },
+                {
+                    "data_dodania": "2023-12-06",
+                    "autor": "anonimowy",
+                    "komentarz": "Dobra zmiana pod względem wydajności, ale gra bez znajomych to nie to samo.",
+                    "ocena": 3,
+                    "autor_reputacja": 1,
+                    "kategoria": "Social",
+                    "platforma": "mobile_android"
+                }
+                ]
+        }

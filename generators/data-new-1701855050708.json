@@ -1,0 +1,338 @@
+
+{
+    "komentarze": [
+        {
+            "data_dodania": "2023-10-01",
+            "autor": "Jan Kowalski",
+            "komentarz": "Niestety, interfejs w blackjacku jest mało intuicyjny, trudno się połapać.",
+            "ocena": 3,
+            "reputacja_autora": 3,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-10-03",
+            "autor": "anonim",
+            "komentarz": "Gra w warcaby na mobilnym iOS działa płynnie, ale poziom trudności jest za wysoki dla początkujących.",
+            "ocena": 4,
+            "reputacja_autora": 2,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "mobile_ios"
+        },
+        {
+            "data_dodania": "2023-10-05",
+            "autor": "Ewa Nowak",
+            "komentarz": "Poker online jest świetny, ale czemu wszystkie poradniki są tylko po angielsku?",
+            "ocena": 6,
+            "reputacja_autora": 4,
+            "kategoria": "poradniki_support",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-10-07",
+            "autor": "Marek Zielinski",
+            "komentarz": "Fajnie, że można grać w szachy z ludźmi z całego świata, ale czasem serwer się rozłącza.",
+            "ocena": 5,
+            "reputacja_autora": 3,
+            "kategoria": "problemy_techniczne",
+            "platforma": "mobile_android"
+        },
+        {
+            "data_dodania": "2023-10-09",
+            "autor": "anonim",
+            "komentarz": "Czuję się trochę oszukany. W slotach wydaje się, że premium mają więcej szczęścia.",
+            "ocena": 2,
+            "reputacja_autora": 1,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-10-12",
+            "autor": "Krzysztof Jarzyna",
+            "komentarz": "Sloty na Androidzie lagują. Niemożliwe jest komfortowe granie.",
+            "ocena": 1,
+            "reputacja_autora": 2,
+            "kategoria": "problemy_techniczne",
+            "platforma": "mobile_android"
+        },
+        {
+            "data_dodania": "2023-10-14",
+            "autor": "anonim",
+            "komentarz": "Po aktualizacji monopoly straciło cały urok, wykonanie kuleje.",
+            "ocena": 3,
+            "reputacja_autora": 2,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "mobile_ios"
+        },
+        {
+            "data_dodania": "2023-10-16",
+            "autor": "Anna Maj",
+            "komentarz": "Brakuje mi większej liczby opcji personalizacji w pokerze. Chciałabym mieć więcej wpływu na wygląd stołu.",
+            "ocena": 7,
+            "reputacja_autora": 4,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-10-18",
+            "autor": "Rafał Bryś",
+            "komentarz": "Grafika w ruletce jest na prawdę niezła, dźwięki też mają klimat.",
+            "ocena": 8,
+            "reputacja_autora": 5,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "mobile_android"
+        },
+        {
+            "data_dodania": "2023-10-20",
+            "autor": "anonim",
+            "komentarz": "Funkcje społecznościowe to plus, ale mam wrażenie, że gra faworyzuje graczy płacących.",
+            "ocena": 4,
+            "reputacja_autora": 3,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "mobile_ios"
+        },
+        {
+            "data_dodania": "2023-10-22",
+            "autor": "Magdalena Kępska",
+            "komentarz": "Dlaczego nie mogę zmienić awatara w scrabblach? Taka podstawowa rzecz, a nie da się tego zrobić.",
+            "ocena": 3,
+            "reputacja_autora": 2,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-10-24",
+            "autor": "Piotr Górski",
+            "komentarz": "Kółko i krzyżyk to klasyk, ale za mało opcji gry z komputerem na wyższych poziomach.",
+            "ocena": 6,
+            "reputacja_autora": 3,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "mobile_android"
+        },
+        {
+            "data_dodania": "2023-10-27",
+            "autor": "anonim",
+            "komentarz": "Świetnie, że można filtrować stoły w pokerze według stawek, ale czemu nie ma opcji szukania po typie gry?",
+            "ocena": 5,
+            "reputacja_autora": 3,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-10-29",
+            "autor": "Zofia Malinowska",
+            "komentarz": "Uwielbiam różnorodność gier, ale monopoly czasem zawiesza na iOS.",
+            "ocena": 7,
+            "reputacja_autora": 4,
+            "kategoria": "problemy_techniczne",
+            "platforma": "mobile_ios"
+        },
+        {
+            "data_dodania": "2023-10-31",
+            "autor": "anonim",
+            "komentarz": "Dlaczego nie ma lepszej optymalizacji pod starsze urządzenia? Sloty niemalże nie działają na moim starym telefonie.",
+            "ocena": 2,
+            "reputacja_autora": 1,
+            "kategoria": "problemy_techniczne",
+            "platforma": "mobile_android"
+        },
+        {
+            "data_dodania": "2023-11-02",
+            "autor": "Kamil Nowicki",
+            "komentarz": "Czy tylko ja mam problem z logowaniem po ostatniej aktualizacji na Androida?",
+            "ocena": 1,
+            "reputacja_autora": 3,
+            "kategoria": "problemy_techniczne",
+            "platforma": "mobile_android"
+        },
+        {
+            "data_dodania": "2023-11-04",
+            "autor": "Dorota Misztal",
+            "komentarz": "Funkcja chatu w grach to świetny pomysł, ale dlaczego tak często się wiesza?",
+            "ocena": 3,
+            "reputacja_autora": 3,
+            "kategoria": "problemy_techniczne",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-11-07",
+            "autor": "anonim",
+            "komentarz": "Szczerze? Monopoly na mobilnym iOS to najlepsza rzecz jaka mnie spotkała!",
+            "ocena": 10,
+            "reputacja_autora": 5,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "mobile_ios"
+        },
+        {
+            "data_dodania": "2023-11-09",
+            "autor": "Tomasz Borek",
+            "komentarz": "Jak na razie nie mam zastrzeżeń do jakości grafiki i dźwięków w slotach, bardzo dobra robota!",
+            "ocena": 9,
+            "reputacja_autora": 5,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-11-11",
+            "autor": "anonim",
+            "komentarz": "Gra w szachy na mobilnym Androidzie jest bardzo dobra, ale brakuje mi więcej turniejów.",
+            "ocena": 7,
+            "reputacja_autora": 4,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "mobile_android"
+        },
+        {
+            "data_dodania": "2023-11-13",
+            "autor": "anonim",
+            "komentarz": "Kasyno online ma dobre zabezpieczenia, ale czy moglibyście dodać dwuetapowe uwierzytelnianie?",
+            "ocena": 6,
+            "reputacja_autora": 3,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-11-15",
+            "autor": "anonim",
+            "komentarz": "Czemu nie ma opcji ustawienia limitów depozytów? To powinno być standardem w grach hazardowych.",
+            "ocena": 3,
+            "reputacja_autora": 2,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "mobile_ios"
+        },
+        {
+            "data_dodania": "2023-11-18",
+            "autor": "Lukasz Wrona",
+            "komentarz": "Ruletka na webie działa bez zarzutu, ale brakuje mi możliwości personalizacji koła.",
+            "ocena": 5,
+            "reputacja_autora": 3,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-11-20",
+            "autor": "anonim",
+            "komentarz": "Gry są różnorodne, ale jakoś nie mogę znaleźć ludzi do gry w scrabble na moim poziomie.",
+            "ocena": 4,
+            "reputacja_autora": 2,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "mobile_android"
+        },
+        {
+            "data_dodania": "2023-11-22",
+            "autor": "Ewelina Kruk",
+            "komentarz": "Sloty na iOS działają płynnie, grafika jest bardzo dobra, czuję się jak w prawdziwym kasynie.",
+            "ocena": 9,
+            "reputacja_autora": 5,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "mobile_ios"
+        },
+        {
+            "data_dodania": "2023-11-25",
+            "autor": "anonim",
+            "komentarz": "Pomimo kilku małych problemów technicznych, support zawsze szybko na nie odpowiada i pomaga je rozwiązać.",
+            "ocena": 8,
+            "reputacja_autora": 4,
+            "kategoria": "poradniki_support",
+            "platforma": "mobile_android"
+        },
+        {
+            "data_dodania": "2023-11-27",
+            "autor": "anonim",
+            "komentarz": "Grafika w pokerze jest świetna, ale optymalizacja pod starsze urządzenia pozostawia wiele do życzenia.",
+            "ocena": 2,
+            "reputacja_autora": 2,
+            "kategoria": "problemy_techniczne",
+            "platforma": "mobile_android"
+        },
+        {
+            "data_dodania": "2023-11-29",
+            "autor": "anonim",
+            "komentarz": "Cieszę się, że wprowadziliście możliwość gry w monopoly na webie, ale wciąż jest sporo błędów.",
+            "ocena": 3,
+            "reputacja_autora": 1,
+            "kategoria": "problemy_techniczne",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-12-01",
+            "autor": "Łukasz Nowak",
+            "komentarz": "Podoba mi się, jak gra w szachy analizuje moje ruchy i sugeruje strategie, bardzo edukacyjne.",
+            "ocena": 7,
+            "reputacja_autora": 4,
+            "kategoria": "poradniki_support",
+            "platforma": "mobile_ios"
+        },
+        {
+            "data_dodania": "2023-12-03",
+            "autor": "anonim",
+            "komentarz": "Dlaczego nie mogę wybrać, z kim gram w kółko i krzyżyk? Brak opcji wyboru przeciwnika to duża wada.",
+            "ocena": 4,
+            "reputacja_autora": 3,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-12-05",
+            "autor": "Katarzyna Janik",
+            "komentarz": "Dlaczego nie ma ostrzeżeń o uzależnieniu od hazardu? Gra jest fajna, ale powinniście o tym informować.",
+            "ocena": 5,
+            "reputacja_autora": 3,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "mobile_android"
+        },
+        {
+            "data_dodania": "2023-12-07",
+            "autor": "Zbigniew Turek",
+            "komentarz": "Gry są super, ale czuję, że bez wykupienia premium nie mam szans na wygrane w pokera.",
+            "ocena": 3,
+            "reputacja_autora": 2,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "mobile_ios"
+        },
+        {
+            "data_dodania": "2023-12-10",
+            "autor": "anonim",
+            "komentarz": "Na Androidzie po ostatniej aktualizacji gra się ciągle wiesza. Czy ktoś to w ogóle testuje przed wydaniem?",
+            "ocena": 1,
+            "reputacja_autora": 1,
+            "kategoria": "problemy_techniczne",
+            "platforma": "mobile_android"
+        },
+        {
+            "data_dodania": "2023-12-12",
+            "autor": "Marta Zawadzka",
+            "komentarz": "Interfejs użytkownika jest bardzo przyjazny, ale czasem trudno znaleźć informacje o bonusach.",
+            "ocena": 6,
+            "reputacja_autora": 3,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "web"
+        },
+        {
+            "data_dodania": "2023-12-14",
+            "autor": "anonim",
+            "komentarz": "Zmniejszcie przewagę dla graczy premium w slotach. To powinno być bardziej zbalansowane.",
+            "ocena": 4,
+            "reputacja_autora": 2,
+            "kategoria": "interfejs_rozgrywka",
+            "platforma": "mobile_ios"
+        },
+        {
+            "data_dodania": "2023-12-16",
+            "autor": "anonim",
+            "komentarz": "Gdzie jest opcja odzyskania hasła? Support mi nie pomógł, a od tygodnia nie mogę się zalogować.",
+            "ocena": 2,
+            "reputacja_autora": 1,
+            "kategoria": "poradniki_support",
+            "platforma": "mobile_android"
+        },
+        {
+            "data_dodania": "2023-12-18",
+            "autor": "anonim",
+            "komentarz": "Szachy na iOS są świetnie zrobione, ale aplikacja zużywa za dużo baterii.",
+            "ocena": 7,
+            "reputacja_autora": 3,
+            "kategoria": "problemy_techniczne",
+            "platforma": "mobile_ios"
+        },
+        {
+            "data_dodania":

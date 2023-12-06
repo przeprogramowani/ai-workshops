@@ -1,0 +1,133 @@
+
+        {
+          "reviews": [
+            {
+              "data_dodania": "2023-10-06",
+              "autor": "KasynoKról",
+              "komentarz": "Gra jeszcze czasami się zacina, ale ogólnie jestem zadowolony.",
+              "ocena": 7,
+              "autor_reputacja": 4,
+              "kategoria": "Performance",
+              "platforma": "web"
+            },
+            {
+              "data_dodania": "2023-10-12",
+              "autor": "SlotMaster3000",
+              "komentarz": "Fajna rozrywka, ale czekam na więcej automatów!",
+              "ocena": 8,
+              "autor_reputacja": 5,
+              "kategoria": "Content",
+              "platforma": "mobile_ios"
+            },
+            {
+              "data_dodania": "2023-10-18",
+              "autor": "Anonimowy",
+              "komentarz": "Niektóre błędy naprawdę psują rozgrywkę. Czekam na poprawki.",
+              "ocena": 3,
+              "autor_reputacja": 2,
+              "kategoria": "Bugs",
+              "platforma": "mobile_android"
+            },
+            {
+              "data_dodania": "2023-10-25",
+              "autor": "LuckyLucy",
+              "komentarz": "Dużo emocji i zabawy, Huuuge potrafi zaskoczyć!",
+              "ocena": 9,
+              "autor_reputacja": 4,
+              "kategoria": "Fun",
+              "platforma": "web"
+            },
+            {
+              "data_dodania": "2023-10-30",
+              "autor": "JackpotJerry",
+              "komentarz": "Gra działa płynniej niż kiedykolwiek. Dobra robota!",
+              "ocena": 8,
+              "autor_reputacja": 3,
+              "kategoria": "Performance",
+              "platforma": "mobile_ios"
+            },
+            {
+              "data_dodania": "2023-11-07",
+              "autor": "Anonimowy",
+              "komentarz": "Gdzie opcje społecznościowe? To był mój ulubiony aspekt gry!",
+              "ocena": 2,
+              "autor_reputacja": 1,
+              "kategoria": "Social",
+              "platforma": "web"
+            },
+            {
+              "data_dodania": "2023-11-09",
+              "autor": "HuuugeFan",
+              "komentarz": "Aktualizacja 2.0 przyniosła lepszą wydajność, ale brakuje mi gier.",
+              "ocena": 6,
+              "autor_reputacja": 4,
+              "kategoria": "Content",
+              "platforma": "mobile_android"
+            },
+            {
+              "data_dodania": "2023-11-15",
+              "autor": "VegasVince",
+              "komentarz": "Brak kontroli wydatków to duży problem. Uważajcie na to.",
+              "ocena": 1,
+              "autor_reputacja": 5,
+              "kategoria": "Wellbeing",
+              "platforma": "web"
+            },
+            {
+              "data_dodania": "2023-11-20",
+              "autor": "Anonimowy",
+              "komentarz": "Poprawki są potrzebne, ale doceniam stabilność gry po aktualizacji.",
+              "ocena": 5,
+              "autor_reputacja": 3,
+              "kategoria": "Updates",
+              "platforma": "mobile_ios"
+            },
+            {
+              "data_dodania": "2023-11-25",
+              "autor": "BettyBonus",
+              "komentarz": "Nie mogę już grać ze znajomymi, ktoś to naprawi?",
+              "ocena": 3,
+              "autor_reputacja": 2,
+              "kategoria": "Social",
+              "platforma": "mobile_android"
+            },
+            {
+              "data_dodania": "2023-11-30",
+              "autor": "Anonimowy",
+              "komentarz": "Gra jest teraz szybka i stabilna, ale czuję się nieco samotny bez funkcji społecznościowych.",
+              "ocena": 4,
+              "autor_reputacja": 3,
+              "kategoria": "Social",
+              "platforma": "web"
+            },
+            {
+              "data_dodania": "2023-12-02",
+              "autor": "SlotsSorceress",
+              "komentarz": "Nie ma już tylu błędów, co jest plus, ale brak gier jest odczuwalny.",
+              "ocena": 6,
+              "autor_reputacja": 4,
+              "kategoria": "Content",
+              "platforma": "mobile_ios"
+            },
+            {
+              "data_dodania": "2023-12-04",
+              "autor": "Anonimowy",
+              "komentarz": "Rozgrywka nie jest już tak wciągająca, mam nadzieję na szybkie ulepszenia.",
+              "ocena": 2,
+              "autor_reputacja": 1,
+              "kategoria": "Engagement",
+              "platforma": "mobile_android"
+            },
+            {
+              "data_dodania": "2023-12-06",
+              "autor": "Anonimowy",
+              "komentarz": "Huuuge Casino 2.0 ma potencjał, ale muszą szybko dodać więcej funkcji.",
+              "ocena": 7,
+              "autor_reputacja": 3,
+              "kategoria": "Updates",
+              "platforma": "web"
+            }
+          ]
+        }
+      
+      

@@ -1,0 +1,149 @@
+
+        {
+    "user_comments": [
+        {
+            "date_added": "2023-10-06",
+            "author": "SlotMaster47",
+            "comment": "I've been experiencing some performance issues and random errors lately that really kill the fun for me.",
+            "rating": 3,
+            "author_reputation": 4,
+            "category": "negative",
+            "platform": "mobile_android"
+        },
+        {
+            "date_added": "2023-10-07",
+            "author": "CasinoQueen",
+            "comment": "The game was okay, no major complaints but it could be more engaging.",
+            "rating": 6,
+            "author_reputation": 3,
+            "category": "neutral",
+            "platform": "web"
+        },
+        {
+            "date_added": "2023-10-08",
+            "author": "JackpotJerry",
+            "comment": "Loving the variety of slots, especially the Classic Diamonds! Keep up the good work!",
+            "rating": 9,
+            "author_reputation": 5,
+            "category": "positive",
+            "platform": "mobile_ios"
+        },
+        {
+            "date_added": "2023-10-15",
+            "author": "PokerProphet",
+            "comment": "It's great to see a platform that focuses on well-being, but I really miss the social aspects of gaming.",
+            "rating": 8,
+            "author_reputation": 4,
+            "category": "positive",
+            "platform": "mobile_android"
+        },
+        {
+            "date_added": "2023-11-06",
+            "author": "RouletteRandy",
+            "comment": "Performance has improved but I'm disappointed with the lack of engaging content and the inability to play with friends.",
+            "rating": 2,
+            "author_reputation": 2,
+            "category": "negative",
+            "platform": "web"
+        },
+        {
+            "date_added": "2023-11-07",
+            "author": "DiceDiva",
+            "comment": "The new update made things run smoother but the game feels empty without the social features.",
+            "rating": 3,
+            "author_reputation": 3,
+            "category": "negative",
+            "platform": "mobile_ios"
+        },
+        {
+            "date_added": "2023-11-10",
+            "author": "anonymous",
+            "comment": "I can see they're trying to improve, but there's still a lot to do. I'll wait for the 2024 updates.",
+            "rating": 5,
+            "author_reputation": 3,
+            "category": "neutral",
+            "platform": "mobile_android"
+        },
+        {
+            "date_added": "2023-11-15",
+            "author": "BettyBingo",
+            "comment": "The classic slots are my favorite, but can't ignore the fact that I miss playing with my buddies here.",
+            "rating": 7,
+            "author_reputation": 4,
+            "category": "neutral",
+            "platform": "web"
+        },
+        {
+            "date_added": "2023-11-20",
+            "author": "ChipChampion",
+            "comment": "Big improvement on the performance front, but what's a casino without friends to share the wins and losses?",
+            "rating": 4,
+            "author_reputation": 5,
+            "category": "negative",
+            "platform": "mobile_ios"
+        },
+        {
+            "date_added": "2023-11-22",
+            "author": "LuckyLarry",
+            "comment": "The stability is better but without the social element, it just doesn't feel like a true casino experience.",
+            "rating": 2,
+            "author_reputation": 3,
+            "category": "negative",
+            "platform": "mobile_android"
+        },
+        {
+            "date_added": "2023-11-25",
+            "author": "SlotSorceress",
+            "comment": "I appreciate the reduced bugs, but the lack of engaging games is a real drawback.",
+            "rating": 3,
+            "author_reputation": 3,
+            "category": "negative",
+            "platform": "web"
+        },
+        {
+            "date_added": "2023-11-28",
+            "author": "anonymous",
+            "comment": "It's a smoother experience post-update but still feels like something's missing without the full range of games.",
+            "rating": 6,
+            "author_reputation": 3,
+            "category": "neutral",
+            "platform": "mobile_ios"
+        },
+        {
+            "date_added": "2023-11-30",
+            "author": "BlackjackBecky",
+            "comment": "Glad to see the performance boost, but I'm really looking forward to when they bring back the social features.",
+            "rating": 8,
+            "author_reputation": 4,
+            "category": "positive",
+            "platform": "mobile_android"
+        },
+        {
+            "date_added": "2023-12-02",
+            "author": "CrapsKing",
+            "comment": "The games run well now, but I feel the lack of player interaction has taken away the thrill.",
+            "rating": 1,
+            "author_reputation": 2,
+            "category": "negative",
+            "platform": "web"
+        },
+        {
+            "date_added": "2023-12-04",
+            "author": "SlotSamurai",
+            "comment": "Performance is top-notch now, but it's just not as fun without my friends around.",
+            "rating": 2,
+            "author_reputation": 3,
+            "category": "negative",
+            "platform": "mobile_ios"
+        },
+        {
+            "date_added": "2023-12-06",
+            "author": "RiggedRoulette",
+            "comment": "Sure, it runs better, but where's the fun without social gaming? Looking forward to more updates.",
+            "rating": 4,
+            "author_reputation": 2,
+            "category": "negative",
+            "platform": "mobile_android"
+        }
+    ]
+}

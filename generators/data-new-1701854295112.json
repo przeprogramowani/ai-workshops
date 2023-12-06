@@ -1,0 +1,328 @@
+{
+  "komentarze": [
+    {
+      "data_dodania": "2023-10-01",
+      "autor": "Karol Nowak",
+      "komentarz": "Nie mogę zrozumieć, dlaczego nie mogę personalizować interfejsu w moim ulubionym pokerze. Brakuje mi opcji zmiany motywów.",
+      "ocena": 4,
+      "reputacja_autora": 3,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "web"
+    },
+    {
+      "data_dodania": "2023-10-02",
+      "autor": "anonim",
+      "komentarz": "Grafika w slotach jest przestarzała. Proszę o aktualizację, bo obecnie to nie przyciąga nowych graczy.",
+      "ocena": 3,
+      "reputacja_autora": 4,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "mobile_android"
+    },
+    {
+      "data_dodania": "2023-10-03",
+      "autor": "Ewa Kowalska",
+      "komentarz": "Czasami gry się zacinają na moim iPhone. Macie problemy z optymalizacją?",
+      "ocena": 2,
+      "reputacja_autora": 2,
+      "kategoria": "problemy_techniczne",
+      "platforma": "mobile_ios"
+    },
+    {
+      "data_dodania": "2023-10-05",
+      "autor": "Mateusz Dąb",
+      "komentarz": "Dlaczego nie ma jasnych instrukcji w grach takich jak monopoly? Tracę czas na szukanie zasad gry.",
+      "ocena": 6,
+      "reputacja_autora": 3,
+      "kategoria": "poradniki_support",
+      "platforma": "web"
+    },
+    {
+      "data_dodania": "2023-10-08",
+      "autor": "Julia Wiśniewska",
+      "komentarz": "Fajnie, że mogę pogadać z innymi graczami podczas gry w scrabble, super funkcja społecznościowa!",
+      "ocena": 8,
+      "reputacja_autora": 4,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "mobile_android"
+    },
+    {
+      "data_dodania": "2023-10-10",
+      "autor": "Marcin Leśny",
+      "komentarz": "Dlaczego nie ma lepszej kontroli nad uzależnieniem? Ludzie tracą dużo pieniędzy na slotach.",
+      "ocena": 2,
+      "reputacja_autora": 3,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "web"
+    },
+    {
+      "data_dodania": "2023-10-12",
+      "autor": "Agata Morze",
+      "komentarz": "Dobrze zbalansowane szanse między graczami premium i free-to-play w warcabach. Brawo!",
+      "ocena": 9,
+      "reputacja_autora": 5,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "mobile_ios"
+    },
+    {
+      "data_dodania": "2023-10-15",
+      "autor": "Piotr Groch",
+      "komentarz": "Mam problemy z logowaniem na Androidzie, czy tylko ja?",
+      "ocena": 3,
+      "reputacja_autora": 2,
+      "kategoria": "problemy_techniczne",
+      "platforma": "mobile_android"
+    },
+    {
+      "data_dodania": "2023-10-18",
+      "autor": "Katarzyna Fala",
+      "komentarz": "Bezpieczeństwo transakcji jest na wysokim poziomie, czuję się tutaj bezpiecznie.",
+      "ocena": 9,
+      "reputacja_autora": 4,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "web"
+    },
+    {
+      "data_dodania": "2023-10-20",
+      "autor": "Michał Wiatr",
+      "komentarz": "Rozgrywka w kółko i krzyżyk nie ma większej głębi, brakuje wyzwań.",
+      "ocena": 4,
+      "reputacja_autora": 3,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "web"
+    },
+    {
+      "data_dodania": "2023-10-23",
+      "autor": "Tomasz Góra",
+      "komentarz": "Dlaczego nie ma wsparcia dla starszych wersji iOS? Nie każdy chce aktualizować telefon.",
+      "ocena": 5,
+      "reputacja_autora": 3,
+      "kategoria": "problemy_techniczne",
+      "platforma": "mobile_ios"
+    },
+    {
+      "data_dodania": "2023-10-25",
+      "autor": "anonim",
+      "komentarz": "Jestem nowy i cieszę się z różnorodności gier, ale potrzebuję lepszych poradników.",
+      "ocena": 7,
+      "reputacja_autora": 2,
+      "kategoria": "poradniki_support",
+      "platforma": "mobile_android"
+    },
+    {
+      "data_dodania": "2023-10-27",
+      "autor": "Bartosz Rzeka",
+      "komentarz": "Zupełnie nie rozumiem, jak mam wygrać w blackjacku, zawsze przegrywam.",
+      "ocena": 1,
+      "reputacja_autora": 1,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "web"
+    },
+    {
+      "data_dodania": "2023-10-30",
+      "autor": "Marta Las",
+      "komentarz": "Uwielbiam możliwość personalizacji w grach, ale w ruletce tego brakuje.",
+      "ocena": 4,
+      "reputacja_autora": 4,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "web"
+    },
+    {
+      "data_dodania": "2023-11-02",
+      "autor": "anonim",
+      "komentarz": "Płynność gry na Androidzie jest okropna. Proszę o optymalizację!",
+      "ocena": 2,
+      "reputacja_autora": 2,
+      "kategoria": "problemy_techniczne",
+      "platforma": "mobile_android"
+    },
+    {
+      "data_dodania": "2023-11-05",
+      "autor": "Marek Wzgórze",
+      "komentarz": "Brakuje mi informacji o tym, jakie są szanse na wygraną w slotach.",
+      "ocena": 3,
+      "reputacja_autora": 3,
+      "kategoria": "poradniki_support",
+      "platforma": "mobile_ios"
+    },
+    {
+      "data_dodania": "2023-11-08",
+      "autor": "Kinga Dolina",
+      "komentarz": "Gry są fajne, ale chciałabym mieć więcej możliwości socjalizacji z innymi graczami.",
+      "ocena": 6,
+      "reputacja_autora": 4,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "mobile_android"
+    },
+    {
+      "data_dodania": "2023-11-10",
+      "autor": "Krystian Cisza",
+      "komentarz": "Jakość dźwięku w grach jest świetna, to zdecydowanie podnosi doznania z rozgrywki.",
+      "ocena": 8,
+      "reputacja_autora": 5,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "web"
+    },
+    {
+      "data_dodania": "2023-11-13",
+      "autor": "Jacek Góry",
+      "komentarz": "Niestety, na moim urządzeniu z Androidem monopoly działają bardzo wolno.",
+      "ocena": 2,
+      "reputacja_autora": 1,
+      "kategoria": "problemy_techniczne",
+      "platforma": "mobile_android"
+    },
+    {
+      "data_dodania": "2023-11-15",
+      "autor": "anonim",
+      "komentarz": "Bezpieczeństwo na poziomie, ale gra w szachy mogłaby mieć lepsze AI.",
+      "ocena": 7,
+      "reputacja_autora": 3,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "web"
+    },
+    {
+      "data_dodania": "2023-11-18",
+      "autor": "Oliwia Płasko",
+      "komentarz": "Dlaczego nie ma wsparcia dla starszych wersji iOS? Nie każdy chce aktualizować telefon.",
+      "ocena": 3,
+      "reputacja_autora": 2,
+      "kategoria": "problemy_techniczne",
+      "platforma": "mobile_ios"
+    },
+    {
+      "data_dodania": "2023-11-20",
+      "autor": "Paweł Echo",
+      "komentarz": "Fajne gry, ale interfejs mógłby być bardziej intuicyjny. Wiele funkcji jest ukrytych.",
+      "ocena": 5,
+      "reputacja_autora": 3,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "mobile_android"
+    },
+    {
+      "data_dodania": "2023-11-23",
+      "autor": "Izabela Wysoko",
+      "komentarz": "Cieszę się z opcji gier na żywo, ale brakuje mi więcej opcji personalizacji stołów do pokera.",
+      "ocena": 8,
+      "reputacja_autora": 4,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "web"
+    },
+    {
+      "data_dodania": "2023-11-25",
+      "autor": "Adam Pustynia",
+      "komentarz": "Proszę o wprowadzenie bardziej zaawansowanych opcji kontroli nad uzależnieniem od gier.",
+      "ocena": 4,
+      "reputacja_autora": 3,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "mobile_ios"
+    },
+    {
+      "data_dodania": "2023-11-28",
+      "autor": "Karolina Ocean",
+      "komentarz": "Problemy z logowaniem na Androidzie to jakaś masakra. Tracę cierpliwość do tej platformy.",
+      "ocena": 1,
+      "reputacja_autora": 1,
+      "kategoria": "problemy_techniczne",
+      "platforma": "mobile_android"
+    },
+    {
+      "data_dodania": "2023-12-01",
+      "autor": "anonim",
+      "komentarz": "Przejrzystość reguł w grach jest dobra, ale potrzebujemy lepszej grafiki w slotach.",
+      "ocena": 6,
+      "reputacja_autora": 2,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "web"
+    },
+    {
+      "data_dodania": "2023-12-03",
+      "autor": "Daniel Wzgórze",
+      "komentarz": "Grafika w pokerze jest dość dobra, ale dźwięki mogłyby być mniej monotonne.",
+      "ocena": 7,
+      "reputacja_autora": 3,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "mobile_ios"
+    },
+    {
+      "data_dodania": "2023-12-05",
+      "autor": "Patrycja Dolna",
+      "komentarz": "Cieszę się, że mogę grać w ulubione gry na moim iPhone, ale czasami aplikacja wywala mnie do ekranu głównego.",
+      "ocena": 3,
+      "reputacja_autora": 2,
+      "kategoria": "problemy_techniczne",
+      "platforma": "mobile_ios"
+    },
+    {
+      "data_dodania": "2023-12-07",
+      "autor": "Jakub Pogoda",
+      "komentarz": "Równowaga między graczami płacącymi a niepłacącymi w ruletce jest zachowana, nie czuję presji na zakupy.",
+      "ocena": 8,
+      "reputacja_autora": 4,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "mobile_android"
+    },
+    {
+      "data_dodania": "2023-12-10",
+      "autor": "Kamila Wiaterek",
+      "komentarz": "Interfejs użytkownika jest przyjemny, ale po aktualizacji pojawiły się pewne błędy.",
+      "ocena": 5,
+      "reputacja_autora": 3,
+      "kategoria": "problemy_techniczne",
+      "platforma": "web"
+    },
+    {
+      "data_dodania": "2023-12-12",
+      "autor": "Sebastian Głębia",
+      "komentarz": "Gra w szachy jest świetna, ale brakuje mi lepszego tutoriala dla początkujących.",
+      "ocena": 6,
+      "reputacja_autora": 4,
+      "kategoria": "poradniki_support",
+      "platforma": "mobile_ios"
+    },
+    {
+      "data_dodania": "2023-12-14",
+      "autor": "Magda Wysoka",
+      "komentarz": "Gry są różnorodne, ale niektóre mają problem z płynnością na moim telefonie z Androidem.",
+      "ocena": 2,
+      "reputacja_autora": 1,
+      "kategoria": "problemy_techniczne",
+      "platforma": "mobile_android"
+    },
+    {
+      "data_dodania": "2023-12-16",
+      "autor": "Robert Cichy",
+      "komentarz": "Niestety, jakość dźwięku w niektórych grach pozostawia wiele do życzenia.",
+      "ocena": 4,
+      "reputacja_autora": 3,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "web"
+    },
+    {
+      "data_dodania": "2023-12-18",
+      "autor": "Klaudia Głośna",
+      "komentarz": "Gra w warcaby jest dobrze wykonana, ale chciałabym mieć więcej opcji customizacji pionków.",
+      "ocena": 7,
+      "reputacja_autora": 4,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "mobile_ios"
+    },
+    {
+      "data_dodania": "2023-12-20",
+      "autor": "anonim",
+      "komentarz": "Bezpieczeństwo i prywatność są na dobrym poziomie, ale brakuje mi bardziej przejrzystego interfejsu.",
+      "ocena": 5,
+      "reputacja_autora": 3,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "mobile_android"
+    },
+    {
+      "data_dodania": "2023-12-22",
+      "autor": "Łukasz Cisza",
+      "komentarz": "Pokochaliście premium graczy kosztem tych, którzy nie wydają pieniędzy. Wszystko jest dla nich łatwiejsze.",
+      "ocena": 1,
+      "reputacja_autora": 1,
+      "kategoria": "interfejs_rozgrywka",
+      "platforma": "web"
+    }
+  ]
+}
