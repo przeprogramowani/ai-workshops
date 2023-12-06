@@ -1,14 +1,15 @@
 import fs from "fs";
 import { glob } from "glob";
 
-const files = await glob("../../1x1-prompts/**/*.md");
+let filePaths = await glob("../../1x1-prompts/**/*.md");
+filePaths = filePaths.sort()
 
 const prompts = {
   pl: [],
   en: [],
 };
 
-files.forEach((pathToFile) => {
+filePaths.forEach((pathToFile) => {
   const content = fs.readFileSync(pathToFile, { encoding: "utf-8" });
 
   if (pathToFile.includes("prompts/pl")) {
