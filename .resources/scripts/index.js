@@ -20,4 +20,4 @@ files.forEach((pathToFile) => {
 
 console.log(prompts);
 
-fs.writeFileSync('./gh-pages/prompts.json', JSON.stringify(prompts, null, 2), 'utf-8');
+fs.writeFileSync('./github-pages/prompts.json', JSON.stringify(prompts, null, 2), 'utf-8');

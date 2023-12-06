@@ -27,3 +27,8 @@ jobs:
       - name: Run a one-line script
         run: cd ./.resources/scripts && node index.js
 
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: './.resources/scripts/github-pages'
+
