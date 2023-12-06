@@ -25,5 +25,5 @@ jobs:
         run: cd ./.resources/scripts && npm ci
 
       - name: Run a one-line script
-        run: node index.js
+        run: cd ./.resources/scripts && node index.js
 
