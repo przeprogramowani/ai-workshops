@@ -6,6 +6,9 @@
   "type": "module",
   "author": "Przeprogramowani",
   "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "glob": "10.3.10"
   }
