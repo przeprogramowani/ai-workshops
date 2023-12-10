@@ -31,6 +31,12 @@ data_dodania,autor,komentarz,ocena,autor_reputacja,kategoria,platforma
 2023-10-30T19:42:31,SpinAddict,"Automaty mają fajny vibe, ale czekam na stabilniejsze działanie po update.",5,3,Stabilność,mobile_android
 2023-11-01T11:51:29,VegasViva,Odczuwam Vegas w domu! Super automaty!,9,3,Zaangażowanie,mobile_android
 2023-11-02T16:33:39,SlotEnthusiast,"Dla miłośników slotów jak ja, to miejsce ma potencjał. Nie mogę się doczekać pełnej wersji!",8,3,Zaangażowanie,mobile_ios
+
+
+
+
+
+
 2023-11-06T19:05:23,PixelPoker,"Po aktualizacji zniknęły problemy z wydajnością, ale gdzie możliwość gry ze znajomymi?",3,4,Społeczność,mobile_ios
 2023-11-06T11:44:12,SlotMaster3000,Oczekiwałem więcej po aktualizacji 2.0. Brak funkcji społecznościowych to duży minus.,1,4,Społeczność,web
 2023-11-06T18:20:31,Lucky777,"Nowa aktualizacja polepszyła wydajność, jednak brakuje mi możliwości gry z przyjaciółmi.",6,3,Społeczność,web
@@ -43,6 +49,7 @@ data_dodania,autor,komentarz,ocena,autor_reputacja,kategoria,platforma
 2023-11-10T04:12:49,JackpotMaster,"Interfejs mógłby być mniej frustrujący, ciężko się połapać po ostatnich zmianach.",2,3,Dobrostan,mobile_android
 2023-11-10T09:44:23,,"Miało być tak pięknie, a tu nuda... Gdzie te obiecane innowacje i nowe sloty?",1,3,Zaangażowanie,mobile_ios
 2023-11-10T05:06:45,GoldGambler,"Wydajniejsze, ale gdzie emocje? Gra się staje nudna.",3,5,Zaangażowanie,mobile_android
+2023-11-10T10:02:33,JohnDoer,"Aktualizacja 2.0 wyzerowała wszystkie ograniczenia czasu przed ekranem - skandal!",1,4,Dobrostan,mobile_ios
 2023-11-10T12:37:00,ZdesperowanyTomek,Bez kontroli wydatków łatwo o przegraną fortunę. Uważajcie!,2,4,Dobrostan,mobile_android
 2023-11-12T09:58:21,FortuneSeeker,"Mniejsze błędy i lepsza wydajność to plus, ale problem z uzależnieniem jest poważny i potrzebna jest lepsza kontrola wydatków.",4,5,Dobrostan,web
 2023-11-12T16:17:34,,"Wydajność jest zauważalnie lepsza, ale to nie wszystko w grach online.",8,5,Wydajność,web
@@ -52,6 +59,7 @@ data_dodania,autor,komentarz,ocena,autor_reputacja,kategoria,platforma
 2023-11-15T15:39:25,,Brakuje mi starej wersji. Ta nowa jest jakieś... pusta.,3,4,Zaangażowanie,web
 2023-11-15T05:06:16,,Gdzie jest możliwość gry ze znajomymi? Bez tego kasyno online traci swoją społecznościową wartość.,1,4,Społeczność,mobile_ios
 2023-11-15T14:08:30,VegasVince,Brak kontroli wydatków to duży problem. Uważajcie na to.,1,4,Dobrostan,web
+2023-11-15T16:02:45,Ada777,"Gra jest bardzo uzależniająca, spędzam na niej zbyt wiele czasu zamiast dbać o swoje zdrowie i rodzinę.",3,3,Dobrostan,web
 2023-11-16T03:06:15,Krzysiek777,"Stabilność gry jest teraz ok, ale czuję się trochę odizolowany od innych graczy.",7,3,Społeczność,web
 2023-11-17T10:02:58,HugeHelen,Po aktualizacji spodziewałam się więcej emocji! Przez brak nowości gra stała się mniej wciągająca.,3,3,Dobrostan,web
 2023-11-18T19:11:53,AceHigh,Bez znajomych to nie to samo. Wróćcie do poprzedniej wersji.,1,3,Społeczność,mobile_android
@@ -61,6 +69,7 @@ data_dodania,autor,komentarz,ocena,autor_reputacja,kategoria,platforma
 2023-11-20T09:39:00,CasinoQueen,Po aktualizacji gra chodzi jak marzenie! Nie mogę się doczekać pełnej funkcjonalności w 2024.,9,5,Wydajność,mobile_android
 2023-11-20T00:12:10,JackpotJan,Super wydajność po ostatniej aktualizacji. Brakuje mi jednak opcji grania ze znajomymi.,6,3,Społeczność,mobile_ios
 2023-11-20T17:41:20,,"Poprawki są potrzebne, ale doceniam stabilność gry po aktualizacji.",5,3,Stabilność,mobile_ios
+2023-11-21T09:12:22,CashJohnny,"Gra nie oferuje żadnych narzędzi do zarządzania czasem spędzanym na grze, co może prowadzić do uzależnienia.",4,2,Dobrostan,mobile_ios
 2023-11-22T12:59:45,SlotFanatic,"Gry są całkiem niezłe, ale czuję się ograniczony bez nowości.",5,3,Zaangażowanie,web
 2023-11-22T19:58:14,LuckyDuck,"Fajnie, że poprawili wydajność, ale bez społecznościowej warstwy gra szybko się nudzi.",3,4,Społeczność,web
 2023-11-23T22:09:50,SlotNewbie,"Nowy w świecie kasyn online i myślałem, że będzie więcej interakcji z innymi. Czuję się trochę oszukany.",2,5,Społeczność,web
@@ -68,18 +77,23 @@ data_dodania,autor,komentarz,ocena,autor_reputacja,kategoria,platforma
 2023-11-24T18:35:32,KasynoKasia,Czuję się trochę oszukana. Gdzie są obiecane aktualizacje i nowe funkcje?,1,5,Zaangażowanie,mobile_android
 2023-11-25T22:09:59,,"Chciałbym móc kontrolować swoje wydatki lepiej, obawiam się że gra staje się uzależniająca.",2,5,Dobrostan,mobile_ios
 2023-11-25T23:21:08,,"Szybciej się ładuje, ale potrzebujemy więcej interakcji.",3,5,Społeczność,mobile_android
+2023-11-25T23:22:10,MarkMoney,"Gdzie jest obiecane wsparcie dla osób z problemami hazardowymi?",2,4,Dobrostan,mobile_android
 2023-11-25T22:24:38,BettyBonus,"Nie mogę już grać ze znajomymi, ktoś to naprawi?",3,3,Społeczność,mobile_android
 2023-11-26T20:02:14,LuckyLuke,"Nie mogę się doczekać, kiedy dodadzą więcej gier. Na razie jest nudno.",3,4,Zaangażowanie,mobile_ios
+2023-11-26T22:09:59,,"Brak jasnych informacji o ryzyku hazardu w grze - 2.0 nie poprawia sytuacji, niestety.",4,4,Dobrostan,mobile_ios
 2023-11-27T19:03:49,,"Po aktualizacji wydajność jest na plus, jednak oczekuję więcej gier i opcji społecznościowych.",4,3,Zaangażowanie,mobile_android
 2023-11-27T15:54:12,CasinoConnoisseur,Jestem pod wrażeniem wydajności po aktualizacji!,6,4,Wydajność,web
 2023-11-27T02:24:37,VegasVictor,"Stabilność jest ok, ale gdzie są te wszystkie fajne funkcje z poprzedniej wersji?",4,4,Zaangażowanie,mobile_android
 2023-11-28T19:36:06,SlotyAda,"Wydajność to plus, ale brakuje mi opcji gry z przyjaciółmi.",6,4,Społeczność,web
+2023-11-28T22:16:22,Ruletka22,"Nowy interfejs gry jest zbyt intensywny i męczący dla oczu, co utrudnia relaks po ciężkim dniu.",3,1,Dobrostan,web
 2023-11-29T15:05:04,SlotSlayer,"Przepisali na Rust i widać różnicę, ale czemu nie mogę zaprosić znajomych?",5,4,Społeczność,mobile_ios
 2023-11-30T19:49:35,,"Zaktualizowali platformę, ale zapomnieli dodać to, co najważniejsze - społeczność.",4,3,Społeczność,mobile_android
 2023-11-30T07:01:47,SlotWizard,"Interfejs użytkownika jest lepszy, ale nadal brakuje mi tej 'iskry' w grze. Czekam na rozwój funkcji społecznościowych.",3,4,Społeczność,web
+2023-11-30T10:12:22,WinnerMax,"Po zainstalowaniu wersji 2.0 zauważyłem pogorszenie mojego snu i ogólnego samopoczucia - uważajcie!",1,5,Dobrostan,web
 2023-11-30T22:05:45,,"Gra jest teraz szybka i stabilna, ale czuję się nieco samotny bez funkcji społecznościowych.",4,5,Społeczność,web
 2023-12-01T13:22:17,LuckyLaura,"Czuję się trochę zawiedziona, aktualizacja 2.0 to krok w tył pod względem funkcjonalności społecznościowych.",3,3,Społeczność,mobile_ios
 2023-12-01T19:43:13,,"Sporo się zmieniło, ale bez opcji gry z przyjaciółmi to po prostu kolejne solowe kasyno online.",1,3,Społeczność,mobile_ios
+2023-12-01T20:00:05,SweetPlayer40,"Aplikacja działa płynnie, ale nie oferuje żadnych funkcji wspierających samopoczucie graczy.",5,4,Dobrostan,mobile_ios
 2023-12-01T17:02:26,LuckyLucy,"Mniej błędów, to na plus, ale gry bez znajomych tracą sens.",3,3,Społeczność,mobile_android
 2023-12-02T02:24:13,SlotsSorceress,"Nie ma już tylu błędów, co jest plus, ale brak gier jest odczuwalny.",4,5,Zaangażowanie,mobile_ios
 2023-12-02T06:02:54,GraczZuza,"Po aktualizacji gra działa płynniej, ale czuję się osamotniona bez możliwości gry z innymi.",5,3,Społeczność,mobile_ios
@@ -87,6 +101,7 @@ data_dodania,autor,komentarz,ocena,autor_reputacja,kategoria,platforma
 2023-12-03T20:56:44,RichBet,"Wydajność gry jest teraz świetna, ale bardzo brakuje mi interakcji społecznych.",4,5,Zaangażowanie,mobile_android
 2023-12-04T11:37:45,,"Rozgrywka nie jest już tak wciągająca, mam nadzieję na szybkie ulepszenia.",2,4,Zaangażowanie,mobile_android
 2023-12-04T14:53:27,SlotyWojtek,"Dobrze, że poprawili stabilność, ale gdzie są nowości?",4,4,Zaangażowanie,web
+2023-12-04T12:01:11,GamerDragon,"Podoba mi się nowa aktualizacja, ale dalej nie ma żadnych funkcji promujących zdrowie psychiczne czy fizyczne użytkowników.",5,3,Dobrostan,mobile_android
 2023-12-04T06:49:32,SlotGuru,"Widać, że technologia poszła do przodu, ale kasyno online bez elementu społecznościowego to jak kino bez filmów.",2,3,Społeczność,web
 2023-12-04T13:24:17,VegasVeteran,"Gra stała się bardziej stabilna, ale brakuje jej 'duszy'.",4,4,Dobrostan,mobile_ios
 2023-12-04T00:55:55,RichieRich,"Jestem pozytywnie zaskoczony wydajnością po aktualizacji, jednak gra szybko staje się monotonna.",5,5,Zaangażowanie,web
@@ -96,3 +111,4 @@ data_dodania,autor,komentarz,ocena,autor_reputacja,kategoria,platforma
 2023-12-06T05:21:34,JackpotJill,"Wreszcie bez błędów i zacinek, ale czemu nie mogę już grać z moimi znajomymi jak wcześniej?",3,4,Społeczność,mobile_android
 2023-12-06T08:09:25,,"Dobra zmiana pod względem wydajności, ale gra bez znajomych to nie to samo.",3,3,Społeczność,mobile_android
 2023-12-06T18:31:01,,"Huuuge Casino 2.0 ma potencjał, ale muszą szybko dodać więcej funkcji.",5,4,Zaangażowanie,web
+2023-12-06T19:01:01,,"Kolejne kasyno bez kontroli dostępu dla dzieci i nieletnich - to powinno być zabronione!",3,2,Dobrostan,mobile_ios
