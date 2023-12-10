@@ -1,4 +1,4 @@
-Jako menedżer produktu dla projektu {PROJEKT}, skierowanego do kobiet w średnim wieku (40-50 lat) ze Stanów Zjednoczonych, stwórz kompleksowy dokument wymagań produktu (PRD).
+Jako menedżer produktu dla projektu {PROJEKT}, skierowanego do {INFORMACJE_O_UŻYTKOWNIKU}, stwórz kompleksowy dokument wymagań produktu (Product Requirements Document - PRD).
 
 Pomóż mi w wygenerowaniu tego dokumentu, obejmując następujące obszary:
 

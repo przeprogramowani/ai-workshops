@@ -1,6 +1,6 @@
-Jestem menedżerem produktu i przygotowuję się do rozmowy ze senior developerem. Muszę omówić MVP nowej funkcji Kluby Graczy, które planujemy dodać do naszego produktu.
+Jestem menedżerem produktu i przygotowuję się do rozmowy ze senior developerem. Muszę omówić MVP projektu {PROJEKT}, które planujemy dodać do naszego produktu.
 
-Chcę wyjaśnić jej cel, problem użytkownika, który rozwiązuje, wszelkie kluczowe kwestie techniczne lub wymagania oraz sposób, w jaki wpisuje się ona w ogólną strategię produktu.
+Chcę wyjaśnić jego cel, problem użytkownika, który rozwiązuje, wszelkie kluczowe kwestie techniczne lub wymagania oraz sposób, w jaki wpisuje się ona w ogólną strategię produktu.
 
 Muszę również wyjaśnić, że senior będzie musiał wybrać zespół czterech programistów i jednego testera do pracy nad tymi funkcjami i poprowadzić ich tak, aby ukończyli pracę w ciągu kwartału.
 
