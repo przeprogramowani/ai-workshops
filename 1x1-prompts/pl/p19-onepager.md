@@ -1,3 +1,5 @@
+Napisz podsumowanie kluczowych informacji na temat pomysłu {PROJEKT}. Uwzględnij dogłębną analizę pomysłu oraz jego krytykę, które wykonałeś wcześniej podczas tej rozmowy.
+
 Ogólny opis pomysłu: Jak w 3-4 zdaniach streścić sedno {POMYSŁ} w kontekście rozwoju {PRODUKT_2.0}?
 
 Cel Projektu: Jakie są główne cele projektu? Czy chodzi o zwiększenie przychodów, poprawę retencji użytkowników, czy inne cele?
