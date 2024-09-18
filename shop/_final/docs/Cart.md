@@ -74,7 +74,6 @@ Funkcje:
 
 - `addToCart(product)`: dodaje produkt do koszyka
 - `removeFromCart(productId)`: usuwa produkt z koszyka
-- `isCartOpen`: atom przechowujący stan otwarcia/zamknięcia koszyka
 - `cartItems`: persistentMap przechowujący produkty w koszyku
 
 Implementacja:
