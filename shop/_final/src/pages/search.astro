@@ -1,0 +1,27 @@
+---
+export const prerender = false;
+
+import Layout from "../layouts/Layout.astro";
+import styles from "./_Search.module.scss";
+import ProductGrid from "../components/ProductGrid";
+import {searchProducts} from "../lib/api";
+
+const url = new URL(Astro.request.url);
+const query = url.searchParams.get("q") || "";
+
+const {products, total} = await searchProducts(query);
+---
+
+<Layout title='Search Results'>
+  <main class={styles.search__container}>
+    <h1 class={styles.search__title}>Search Results for: {query}</h1>
+    <p class={styles["search__total-results"]}>Total results: {total}</p>
+    {
+      products.length > 0 ? (
+        <ProductGrid products={products} />
+      ) : (
+        <p>No results found.</p>
+      )
+    }
+  </main>
+</Layout>

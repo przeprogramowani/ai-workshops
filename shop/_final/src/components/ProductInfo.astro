@@ -1,0 +1,47 @@
+---
+import CartButton from "./CartButton";
+import styles from "./ProductInfo.module.scss";
+
+interface Props {
+  product: {
+    id: number;
+    title: string;
+    price: number;
+    description: string;
+    category: string;
+    brand: string;
+    rating: number;
+    thumbnail: string;
+  };
+}
+
+const {product} = Astro.props;
+---
+
+<div class={styles["product-info"]}>
+  <h1 class={styles["product-info__title"]}>{product.title}</h1>
+  <div class={styles["product-info__meta"]}>
+    <p class={styles["product-info__meta-item"]}>
+      <strong>Category:</strong>
+      {product.category}
+    </p>
+    <p class={styles["product-info__meta-item"]}>
+      <strong>Brand:</strong>
+      {product.brand}
+    </p>
+  </div>
+  <p class={styles["product-info__price"]}>
+    Price: ${product.price.toFixed(2)}
+  </p>
+  <p class={styles["product-info__description"]}>{product.description}</p>
+
+  <p class={styles["product-info__meta-item"]}>
+    <strong>Rating:</strong>
+    <span class={styles["product-info__rating"]}
+      >{product.rating.toFixed(1)}</span
+    >
+  </p>
+  <div class={styles["product-info__actions"]}>
+    <CartButton client:load product={product} />
+  </div>
+</div>

@@ -1,0 +1,17 @@
+---
+import styles from "./SearchBar.module.scss";
+
+const url = new URL(Astro.request.url);
+const query = url.searchParams.get("q") || "";
+---
+
+<form class={styles["search-bar"]} action='/search'>
+  <input
+    type='text'
+    name='q'
+    class={styles["search-bar__input"]}
+    placeholder='Search products...'
+    value={query}
+  />
+  <button type='submit' class={styles["search-bar__button"]}>Search</button>
+</form>

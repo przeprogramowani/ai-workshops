@@ -1,0 +1,19 @@
+---
+import Layout from "../layouts/Layout.astro";
+import {getAllProducts} from "../lib/api";
+import ProductList from "../components/ProductList.jsx";
+
+const initialLimit = 12;
+const {products: initialProducts, total: initialTotal} = await getAllProducts(
+  initialLimit,
+  0
+);
+---
+
+<Layout title='Products'>
+  <ProductList
+    client:load
+    initialProducts={initialProducts}
+    initialTotal={initialTotal}
+  />
+</Layout>

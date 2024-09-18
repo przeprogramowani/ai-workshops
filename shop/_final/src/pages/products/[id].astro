@@ -1,0 +1,32 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import {getProduct} from "../../lib/api";
+import ProductInfo from "../../components/ProductInfo.astro";
+import ProductGallery from "../../components/ProductGallery.astro";
+
+export async function getStaticPaths() {
+  const productIds = Array.from({length: 190}, (_, i) => i + 1);
+
+  return productIds.map((id) => ({
+    params: {id: id.toString()},
+    props: {id},
+  }));
+}
+
+const {id} = Astro.params;
+const product = await getProduct(id);
+---
+
+<Layout title={product.title}>
+  <div class='product-details'>
+    <ProductGallery product={product} />
+    <ProductInfo product={product} />
+  </div>
+</Layout>
+
+<style>
+  .product-details {
+    display: flex;
+    gap: 2rem;
+  }
+</style>

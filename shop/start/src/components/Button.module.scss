@@ -1,0 +1,27 @@
+.button {
+  color: var(--color-text);
+  border: none;
+  padding: var(--spacing-sm) var(--spacing-lg);
+  border-radius: var(--border-radius-sm);
+  font-weight: 500;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: var(--font-size-base);
+  display: inline-block;
+
+  &--primary {
+    background-color: var(--color-primary);
+
+    &:hover {
+      background-color: var(--color-primary-dark);
+    }
+  }
+
+  &--secondary {
+    background-color: var(--color-secondary);
+
+    &:hover {
+      background-color: var(--color-secondary-dark);
+    }
+  }
+}

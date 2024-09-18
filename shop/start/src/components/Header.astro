@@ -1,0 +1,17 @@
+---
+import styles from "./Header.module.scss";
+import SearchBar from "./SearchBar.astro";
+import Cart from "./Cart.jsx";
+---
+
+<header class={styles.header}>
+  <nav class={`${styles.header__nav} container`}>
+    <div>
+      <a href='/' class={styles.header__link}>Home</a>
+    </div>
+    <SearchBar />
+    <div class={styles["header__cart-container"]}>
+      <Cart client:only='react' />
+    </div>
+  </nav>
+</header>
