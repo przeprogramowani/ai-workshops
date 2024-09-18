@@ -1,8 +1,8 @@
 import fs from "fs";
-import { glob } from "glob";
+import {glob} from "glob";
 
-let filePaths = await glob("../../1x1-prompts/**/*.md");
-filePaths = filePaths.sort()
+let filePaths = await glob("../../prompts/**/*.md");
+filePaths = filePaths.sort();
 
 const prompts = {
   pl: [],
@@ -10,7 +10,7 @@ const prompts = {
 };
 
 filePaths.forEach((pathToFile) => {
-  const content = fs.readFileSync(pathToFile, { encoding: "utf-8" });
+  const content = fs.readFileSync(pathToFile, {encoding: "utf-8"});
 
   if (pathToFile.includes("prompts/pl")) {
     prompts.pl.push(content);
@@ -21,4 +21,8 @@ filePaths.forEach((pathToFile) => {
 
 console.log(prompts);
 
-fs.writeFileSync('./github-pages/prompts.json', JSON.stringify(prompts, null, 2), 'utf-8');
+fs.writeFileSync(
+  "./github-pages/prompts.json",
+  JSON.stringify(prompts, null, 2),
+  "utf-8"
+);
