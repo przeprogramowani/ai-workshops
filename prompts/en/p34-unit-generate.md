@@ -1,0 +1,1 @@
+Analyze step by step what tests for @Cart.jsx are crucial to ensure that the component works correctly. We're interested in testing the logic and contract of the component, not the implementation details.

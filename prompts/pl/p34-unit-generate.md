@@ -1,0 +1,1 @@
+Przeanalizuj krok po kroku jakie testy @Cart.jsx są kluczowe dla upewnienia się, że komponent działa poprawnie. Zależy nam na testowaniu logiki i kontraktu komponentu a nie szczegółów implementacyjnych.
