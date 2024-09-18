@@ -1,32 +1,20 @@
-import React, {useEffect, useState} from "react";
+import {useStore} from "@nanostores/react";
+import React, {useState} from "react";
+import {cartItems, removeFromCart} from "../stores/cartStore";
 import Button from "./Button";
 import styles from "./Cart.module.scss";
 
 const Cart = () => {
   const [isOpen, setIsOpen] = useState(false);
-  const [cartItems, setCartItems] = useState({});
+  const $cartItems = useStore(cartItems);
 
-  useEffect(() => {
-    const cart = JSON.parse(localStorage.getItem("cart") || "{}");
-    setCartItems(cart);
-  }, []);
-
-  const toggleCart = () => {
-    if (!isOpen) {
-      const cart = JSON.parse(localStorage.getItem("cart") || "{}");
-      setCartItems(cart);
-    }
-    setIsOpen(!isOpen);
-  };
+  const toggleCart = () => setIsOpen(!isOpen);
 
   const handleRemoveFromCart = (productId) => {
-    const updatedCart = {...cartItems};
-    delete updatedCart[productId];
-    localStorage.setItem("cart", JSON.stringify(updatedCart));
-    setCartItems(updatedCart);
+    removeFromCart(productId);
   };
 
-  const cartItemsArray = Object.values(cartItems);
+  const cartItemsArray = Object.values($cartItems);
   const totalItems = cartItemsArray.length;
   const totalPrice = cartItemsArray.reduce((sum, item) => sum + item.price, 0);
 

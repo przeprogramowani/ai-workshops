@@ -1,24 +1,20 @@
+import {useStore} from "@nanostores/react";
 import PropTypes from "prop-types";
-import React, {useState, useEffect} from "react";
+import React from "react";
+import {addToCart, cartItems, removeFromCart} from "../stores/cartStore";
 import Button from "./Button";
 
 const CartButton = ({product}) => {
-  const [isInCart, setIsInCart] = useState(false);
+  const $cartItems = useStore(cartItems);
 
-  useEffect(() => {
-    const cart = JSON.parse(localStorage.getItem("cart") || "{}");
-    setIsInCart(!!cart[product.id]);
-  }, [product.id]);
+  const isInCart = !!$cartItems[product.id];
 
   const toggleCart = () => {
-    const cart = JSON.parse(localStorage.getItem("cart") || "{}");
     if (isInCart) {
-      delete cart[product.id];
+      removeFromCart(product.id);
     } else {
-      cart[product.id] = product;
+      addToCart(product);
     }
-    localStorage.setItem("cart", JSON.stringify(cart));
-    setIsInCart(!isInCart);
   };
 
   return (
