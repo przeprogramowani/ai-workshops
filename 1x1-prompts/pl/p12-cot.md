@@ -1,0 +1,1 @@
+W poniedziałek rano piekarze z piekarni Beverly Hills upiekli 200 bochenków chleba. Sprzedali 93 bochenki rano i 39 bochenków po południu. Sklep spożywczy zwrócił do piekarni 6 bochenków. Ile bochenków chleba pozostało na koniec dnia? Odpowiedz krok po kroku.

@@ -1,0 +1,1 @@
+On Monday morning, bakers at a Beverly Hills bakery baked 200 loaves of bread. They sold 93 loaves in the morning and 39 loaves in the afternoon. The grocery store returned 6 loaves to the bakery. How many loaves of bread were left at the end of the day? Analyze it step by step.
