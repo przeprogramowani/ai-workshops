@@ -1,0 +1,10 @@
+Conduct the following quality checks:
+
+- Check if all the imports point to existing files. If not, implement the missing parts.
+- Check if imports to CSS files are correct - if files are missing and needed, add them.
+- Verify component cross-references - if files are missing and needed, add them.
+- Check if information architecture matches the requirements. If not, change the architecture.
+- Check if the API is properly utilized. If not, you are free to change business logic.
+- Check if the tech stack configuration is correct. If not, change the configuration.
+- Make sure both server-side and client-side code passes the quality checks.
+- If you are implementing any Astro functions, please make sure that they are uppercased.

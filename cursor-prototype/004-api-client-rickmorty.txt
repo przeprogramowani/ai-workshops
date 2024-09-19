@@ -1,0 +1,7 @@
+Having the project plan defined, please build backend client that will be used to fetch data from the Rick and MortyAPI.
+
+Do not use any external libraries for data fetching.
+
+If you are implementing any Astro functions, please make sure that they are uppercased.
+
+Backend layer may include business logic and more complex endpoints that will allow you to execute the project plan.

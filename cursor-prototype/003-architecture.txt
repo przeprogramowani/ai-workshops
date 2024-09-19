@@ -1,0 +1,11 @@
+Having the project plan defined, please create information architecture for the app.
+
+It should be simple yet engaging project that we can build and run locally.
+
+Please provide a list of pages and components that you think are necessary for the MVP.
+
+The information architecture should be based on the API that we've discovered in the previous step.
+
+Focus on core functionality - features such as authentication, user management, etc. should be excluded.
+
+You may want to use storage based on local storage or JSON files.

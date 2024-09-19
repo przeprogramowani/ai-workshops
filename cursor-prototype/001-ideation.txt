@@ -1,0 +1,9 @@
+Let's enter the ideation stage. The idea is to combine Rick and Morty API with OpenAI DALL-E 3 model to create engaging web application.
+
+List 10 ideas for web apps that we may build.
+
+Think about engaging scenarios and user journeys, going beyond exact endpoints. You can mix and match endpoints to create engaging user journeys.
+
+Your goal is to create a web app that will be engaging and fun to use.
+
+It's my turn to pick one of the ideas.

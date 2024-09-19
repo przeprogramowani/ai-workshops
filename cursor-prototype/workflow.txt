@@ -1,0 +1,11 @@
+Please act according to the following workflow:
+
+000-api-scan.txt
+001-ideation.txt
+002-project-plan.txt
+003-architecture.txt
+004-api-client-openai.txt
+004-api-client-rickmorty.txt
+005-view-layer-astro.txt
+005-view-layer-svelte.txt
+006-quality-check.txt

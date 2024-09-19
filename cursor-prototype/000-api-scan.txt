@@ -1,0 +1,7 @@
+Please review content of "rick-and-morty.md".
+
+We'll be building a web app that uses available endpoints.
+
+List all available endpoints and describe what they do.
+
+Then proceed to ideation stage.

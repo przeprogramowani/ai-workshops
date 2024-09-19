@@ -1,0 +1,7 @@
+Please implement view layer for the app that will be based on the project plan and available API client.
+
+Focus on server-side pages and layouts in Astro. Do not implement any client-side components yet. Main navigation from the information architecture should be implemented.
+
+Stick to the tech stack defined in the .cursorrules file.
+
+As a result, I would like to navigate through all the pages in my browser.

@@ -1,0 +1,5 @@
+Having the project plan defined, please build backend client for OpenAI DALL-E 3 model. Use the newest OpenAI SDK (openai) library. It's already added to the project.
+
+There's a global variable OPENAI_API_KEY that is set to the API key.
+
+If you are implementing any Astro functions, please make sure that they are uppercased.

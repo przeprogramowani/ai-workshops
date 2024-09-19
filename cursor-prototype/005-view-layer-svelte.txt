@@ -1,0 +1,7 @@
+Now, extend main navigation with Svelte components, making the app engaging and interactive.
+
+Follow the project plan and use the API client to fetch and display data.
+
+Stick to the tech stack defined in the .cursorrules file.
+
+As a result, I would like to see a fully functional Svelte app.

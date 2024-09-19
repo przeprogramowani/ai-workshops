@@ -1,0 +1,7 @@
+We're going to build a full stack web app using tools I provided in the .cursorrules file.
+
+We already have an empty template created with Astro CLI.
+
+As a first step, please prepare a list of milestones to rapidly prototype a functional MVP. Let's focus on the core functionality, with a focus on the user experience.
+
+Keep in mind that we'll be using OpenAI DALL-E 3 model to generate illustrations for our app.
