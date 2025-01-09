@@ -37,10 +37,6 @@ jobs:
         with:
           path: "./.resources/scripts/github-pages"
 
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-
   deploy:
     environment:
       name: github-pages
