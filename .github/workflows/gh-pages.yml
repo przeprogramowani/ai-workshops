@@ -33,13 +33,13 @@ jobs:
         run: cd ./.resources/scripts && node index.js
 
       - name: Upload Artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: "./.resources/scripts/github-pages"
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
 
   deploy:
     environment:
