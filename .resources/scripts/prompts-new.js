@@ -2,9 +2,12 @@ import fs from "fs";
 import {glob} from "glob";
 
 function toCamelCase(str) {
-  return str.replace(/-([a-z])/g, function (match, letter) {
-    return letter.toUpperCase();
-  });
+  return str
+    .split("-")
+    .map((word, index) =>
+      index === 0 ? word : word.charAt(0).toUpperCase() + word.slice(1)
+    )
+    .join("");
 }
 
 export async function buildPromptCatalog() {
