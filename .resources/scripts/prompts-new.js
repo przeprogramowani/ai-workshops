@@ -3,7 +3,7 @@ import {glob} from "glob";
 
 export async function buildPromptCatalog() {
   try {
-    let filePaths = await glob("../../prompts/catalog/**/*.{en|pl}.md");
+    let filePaths = await glob("../../prompts/catalog/**/*.{en,pl}.md");
     if (!filePaths || filePaths.length === 0) {
       throw new Error("No prompt files found in the catalog directory");
     }
@@ -46,7 +46,7 @@ export async function buildPromptCatalog() {
 
     try {
       fs.writeFileSync(
-        "./github-pages/prompts.json",
+        "./github-pages/prompts-catalog.json",
         JSON.stringify(catalog, null, 2),
         "utf-8"
       );
