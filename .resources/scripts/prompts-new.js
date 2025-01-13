@@ -58,5 +58,3 @@ export async function buildPromptCatalog() {
     throw error;
   }
 }
-
-await buildPromptCatalog();
