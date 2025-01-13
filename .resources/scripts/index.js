@@ -1,5 +1,3 @@
-import {buildLegacyPrompts} from "./prompts-legacy.js";
-import {buildPromptCatalog} from "./prompts-new.js";
+import {buildPromptCatalog} from "./prompts-catalog.js";
 
-await buildLegacyPrompts();
 await buildPromptCatalog();

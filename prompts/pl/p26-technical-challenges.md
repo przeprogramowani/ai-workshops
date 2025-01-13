@@ -1,1 +1,0 @@
-Jakie potencjalne pułapki lub wyzwania techniczne, które możemy napotkać podczas iteracji naszego MVP {PROJEKT} i jak możemy proaktywnie im zaradzić? W swojej analizie wykorzystaj powyższe RTM, kryteria akceptacji oraz PRD.
