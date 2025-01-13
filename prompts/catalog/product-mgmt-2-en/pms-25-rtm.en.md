@@ -1,0 +1,1 @@
+Based on the information and acceptance criteria recommendations for {PROJECT} above, help me create a Requirements Traceability Matrix (RTM) to meet all requirements. Generate an initial version of the RTM.

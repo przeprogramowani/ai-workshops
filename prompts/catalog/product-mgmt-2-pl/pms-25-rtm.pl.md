@@ -1,0 +1,1 @@
+Na podstawie powyższych informacji i zaleceń dot. kryteriów akceptacji dla {PROJEKT}, pomóż mi stworzyć Requirements Traceability Matrix (RTM), aby spełnić wszystkie wymagania. Wygeneruj wstępną wersję RTM.
