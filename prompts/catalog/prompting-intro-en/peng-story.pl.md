@@ -1,1 +1,1 @@
-Write a short story about the best jeweler in the city of New York.
+Write a short story about the best jewelry seller in the city of Zielona Góra.
