@@ -1,7 +1,7 @@
 import fs from "fs";
 import {glob} from "glob";
 
-export async function buildPrompts() {
+export async function buildLegacyPrompts() {
   let filePaths = await glob("../../prompts/{en|pl}/*.md");
   filePaths = filePaths.sort();
 
