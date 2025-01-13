@@ -1,0 +1,1 @@
+Review step by step what we have achieved and prepare a comprehensive summary that I can send in a new session so we can continue from where we left off. Make sure to accurately describe the results of the cluster analysis and the conclusions drawn from it.

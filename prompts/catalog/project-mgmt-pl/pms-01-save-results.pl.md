@@ -1,0 +1,1 @@
+Przejrzyj krok po kroku to, co osiągnęliśmy i przygotuj kompleksowe podsumowanie, które mogę przesłać w nowej sesji, abyśmy mogli kontynuować od miejsca, w którym skończyliśmy. Upewnij się, że w sposób dokładny opiszesz wynik analizy klastrowej oraz wnioski z niej płynące.
