@@ -1,0 +1,1 @@
+The transformation of graphite into diamond is an allotropic conversion of carbon occurring under extreme pressure and high temperature, leading to a change from a layered structure to a three-dimensional network with exceptionally strong chemical bonds.

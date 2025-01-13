@@ -1,0 +1,1 @@
+Transformacja grafitu w diament to konwersja alotropowa węgla zachodząca pod ekstremalnym ciśnieniem i wysoką temperaturą, prowadząca do zmiany struktury warstwowej na trójwymiarową sieć o wyjątkowo silnych wiązaniach chemicznych.
