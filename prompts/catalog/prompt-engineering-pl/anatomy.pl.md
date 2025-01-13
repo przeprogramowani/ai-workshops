@@ -1,7 +1,7 @@
-Jako doświadczony mówca na konferencjach programistycznych, wygeneruj dla mnie listę 10 pomysłów na prezentacje związane z Generatywnym AI.
+As an experienced speaker at programming conferences, generate a list of 10 presentation ideas related to Generative AI.
 
-Zwróć listę numerowaną. Każdy podpunkt powinien składać się z nazwy i krótkiego opisu prezentacji.
+Return a numbered list. Each bullet point should consist of a title and a brief description of the presentation.
 
-Będę przemawiał do grupy 100 specjalistów, którzy są zainteresowani integrowaniem AI we własnych projektach.
+I will be speaking to a group of 100 professionals who are interested in integrating AI into their own projects.
 
-Ciekawe tematy prezentacji innych prelegentów: 1. Wykorzystanie AI w trybie offline 2. Optymalizacja kosztów integracji 3. Jak przyśpieszyć model językowy?
+Interesting presentation topics from other speakers: 1. Using AI in offline mode 2. Cost optimization for integration 3. How to speed up a language model?
