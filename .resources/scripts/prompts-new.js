@@ -1,6 +1,12 @@
 import fs from "fs";
 import {glob} from "glob";
 
+function toCamelCase(str) {
+  return str.replace(/-([a-z])/g, function (match, letter) {
+    return letter.toUpperCase();
+  });
+}
+
 export async function buildPromptCatalog() {
   try {
     let filePaths = await glob("../../prompts/catalog/**/*.{en,pl}.md");
@@ -29,7 +35,7 @@ export async function buildPromptCatalog() {
         }
 
         const language = fileName.endsWith(".pl.md") ? "pl" : "en";
-        const promptId = fileName.split(".")[0];
+        const promptId = toCamelCase(fileName.split(".")[0]);
         if (!promptId) {
           console.warn(`Invalid file name format: ${fileName}`);
           return;
