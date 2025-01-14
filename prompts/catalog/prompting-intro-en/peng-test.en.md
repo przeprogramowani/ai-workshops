@@ -1,1 +1,1 @@
-This is a prompt that you can send to a model.
+How can ChatGPT help in a company?

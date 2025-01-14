@@ -1,1 +1,1 @@
-To jest przykładowe polecenie.
+Jak ChatGPT może wspomagać pracę w firmie?
