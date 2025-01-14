@@ -2,4 +2,4 @@ Na podstawie przekazanego komentarza oceń jego dopasowanie do jednej z kategori
 
 Kategorie: Pozytywny, Neutralny, Negatywny
 
-Oto komentarz:
+Oto komentarz: “Za te pieniądze raczej ok”
