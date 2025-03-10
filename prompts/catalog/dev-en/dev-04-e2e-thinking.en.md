@@ -3,52 +3,11 @@ You are an experienced test automation engineer tasked with generating end-to-en
 Here's the application description and user flow:
 
 <app_description>
-The Flashcards App is a modern web application built with Angular 19 frontend and NestJS 11 backend, following a full-stack TypeScript architecture. The frontend utilizes Angular Material (^19.2.1) for UI components and styling, while the backend is powered by NestJS with Sequelize ORM for database operations, specifically using SQLite3 as the database engine. The application implements a RESTful architecture, with the backend exposing APIs through Express.js (via @nestjs/platform-express) and the frontend consuming them through Angular's HTTP client. The system uses modern development practices with comprehensive testing setups on both ends - Jasmine/Karma for frontend testing, Jest for backend testing, and Playwright for e2e testing.
-
-### User Stories:
-
-1. As a user, I want to create new flashcards by providing a question, answer, and difficulty level (easy/normal/hard) so that I can build my study materials.
-
-2. As a user, I want to view all my flashcards in a list format so that I can see my entire collection of study materials.
-
-3. As a user, I want to delete flashcards that I no longer need so that I can keep my collection organized
-
-4. As a user, I want to view individual flashcard details by selecting a specific card from the list so that I can review its content.
-
-5. As a user, I want to see my flashcards grouped by difficulty level (easy/normal/hard) so that I can understand the complexity distribution of my study material
-   </app_description>
+{{APP_DESCRIPTION}}
+</app_description>
 
 <app_flow>
-
-1. Creating Flashcards
-
-Frontend: Users can create new flashcards in flashcards-create component (/create) with three fields:
-
-Question
-
-Answer
-
-Difficulty level (Easy, Normal, Hard)
-
-Backend: The API endpoint /flashcards (POST) handles creation of new flashcards
-
-Data Structure: Each flashcard has a unique ID, question, answer, and difficulty level
-
-2. Viewing Flashcards
-
-Frontend: Users can view a list of all flashcards through the flashcards-list (/) component
-
-Backend: The API endpoint /flashcards (GET) provides all flashcards
-
-Organization: Flashcards can be grouped by difficulty level (as evidenced by the FlashcardGroup interface)
-
-3. Managing Flashcards
-
-Frontend: Users can delete individual flashcards and view specific flashcard details in flashcards-list (/)
-
-Backend: Supports both deletion (/flashcards/:id DELETE) and retrieval of individual flashcards (/flashcards/:id GET)
-
-Features: Basic CRUD operations are implemented, focusing on essential flashcard management
+{{APP_FLOW}}
 </app_flow>
 
 Your task is to generate a complete test suite using Playwright and TypeScript, implementing the Page Object Model (POM) pattern. Follow these steps and best practices:

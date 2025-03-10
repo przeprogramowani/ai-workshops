@@ -3,52 +3,11 @@ Jesteś doświadczonym inżynierem automatyzacji testów, którego zadaniem jest
 Oto opis aplikacji i przepływ użytkownika:
 
 <app_description>
-Aplikacja Flashcards to nowoczesna aplikacja internetowa zbudowana z frontendu Angular 19 i backendu NestJS 11, zgodnie z architekturą TypeScript. Frontend wykorzystuje Angular Material (^19.2.1) do komponentów interfejsu użytkownika i stylizacji, podczas gdy backend jest zasilany przez NestJS z Sequelize ORM do operacji bazodanowych, w szczególności przy użyciu SQLite3 jako silnika bazy danych. Aplikacja implementuje architekturę RESTful, z backendem eksponującym API poprzez Express.js (poprzez @nestjs/platform-express) i frontendem konsumującym je poprzez klienta HTTP Angulara. System wykorzystuje nowoczesne praktyki programistyczne z kompleksowymi konfiguracjami testowymi po obu stronach - Jasmine/Karma do testowania frontendu, Jest do testowania backendu i Playwright do testowania e2e.
-
-### Historie użytkownika:
-
-1. Jako użytkownik chcę tworzyć nowe fiszki, podając pytanie, odpowiedź i poziom trudności (łatwy/normalny/trudny), aby móc tworzyć materiały do nauki.
-
-2. Jako użytkownik chcę wyświetlić wszystkie moje fiszki w formacie listy, aby móc zobaczyć całą kolekcję materiałów do nauki.
-
-3. Jako użytkownik chcę usuwać fiszki, których już nie potrzebuję, aby utrzymać porządek w mojej kolekcji
-
-4. Jako użytkownik chcę wyświetlić szczegóły poszczególnych kart flash, wybierając konkretną kartę z listy, aby móc przejrzeć jej zawartość.
-
-5. Jako użytkownik, chcę zobaczyć moje fiszki pogrupowane według poziomu trudności (łatwy/normalny/trudny), abym mógł zrozumieć rozkład złożoności mojego materiału do nauki.
-   </app_description>
+{{APP_DESCRIPTION}}
+</app_description>
 
 <app_flow>
-
-1. Tworzenie fiszek
-
-Frontend: Użytkownicy mogą tworzyć nowe karty flash w komponencie flashcards-create (/create) z trzema polami:
-
-Pytanie
-
-Odpowiedź
-
-Poziom trudności (łatwy, normalny, trudny)
-
-Backend: Punkt końcowy API /flashcards (POST) obsługuje tworzenie nowych kart flash.
-
-Struktura danych: Każda karta flash ma unikalny identyfikator, pytanie, odpowiedź i poziom trudności.
-
-2. Przeglądanie fiszek
-
-Frontend: Użytkownicy mogą wyświetlić listę wszystkich fiszek poprzez komponent flashcards-list (/).
-
-Backend: Punkt końcowy API /flashcards (GET) udostępnia wszystkie karty flash.
-
-Organizacja: Fiszki można grupować według poziomu trudności (o czym świadczy interfejs FlashcardGroup).
-
-3. Zarządzanie fiszkami
-
-Frontend: Użytkownicy mogą usuwać poszczególne fiszki i przeglądać ich szczegóły na liście fiszek (/).
-
-Backend: Obsługuje zarówno usuwanie (/flashcards/:id DELETE), jak i pobieranie poszczególnych kart flash (/flashcards/:id GET).
-
-Funkcje: Zaimplementowano podstawowe operacje CRUD, koncentrując się na niezbędnym zarządzaniu kartami flash
+{{APP_FLOW}}
 </app_flow>
 
 Twoim zadaniem jest wygenerowanie kompletnego zestawu testów przy użyciu Playwright i TypeScript, implementując wzorzec Page Object Model (POM). Postępuj zgodnie z poniższymi krokami i najlepszymi praktykami:
