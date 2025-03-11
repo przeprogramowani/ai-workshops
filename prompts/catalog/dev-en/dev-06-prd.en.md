@@ -6,9 +6,7 @@ Description of the flashcards application:
 </app_description>.
 
 Description of the new feature:
-<app_new_feature>.
-{{APP_NEW_FEATURE}}
-</app_new_feature>.
+<your-plan-for-new-feature />.
 
 The document should include:
 

@@ -6,9 +6,7 @@ Opis aplikacji fiszkowej:
 </app_description>
 
 Pomysł na nową funkcję:
-<app_new_feature>
-{{APP_NEW_FEATURE}}
-</app_new_feature>
+<twój-plan-nowej-funkcji />
 
 Dokument powinien zawierać:
 
