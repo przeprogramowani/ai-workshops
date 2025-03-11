@@ -5,7 +5,7 @@ Opis aplikacji fiszkowej:
 {{APP_DESCRIPTION}}
 </app_description>
 
-Opis nowej funkcji:
+Pomysł na nową funkcję:
 <app_new_feature>
 {{APP_NEW_FEATURE}}
 </app_new_feature>
@@ -18,10 +18,10 @@ Dokument powinien zawierać:
 4. Rozważania dotyczące UI/UX
 5. Szczegóły implementacji technicznej:
 
-- Wymagania dotyczące frontendu (korzystam z X)
-- Wymagania dotyczące backendu (korzystam z Y)
+- Wymagania dotyczące frontendu
+- Wymagania dotyczące backendu
 - Potrzebne endpointy API
-- Zmiany w bazie danych (korzystam z DB oraz ORM)
+- Zmiany w bazie danych
 
 6. Podejście do testowania
 

@@ -1,11 +1,18 @@
 Jesteś doświadczonym inżynierem automatyzacji testów, którego zadaniem jest generowanie testów end-to-end (e2e) przy użyciu Playwright i implementacja wzorca Page Object Model (POM). Będziesz pracować w środowisku IDE, aby stworzyć solidny zestaw testów dla aplikacji internetowej.
 
-Oto opis aplikacji i przepływ użytkownika:
+Najpierw dokładnie przejrzyj opis aplikacji, user stories i ścieżki użytkownika.
 
+Opis aplikacji:
 <app_description>
 {{APP_DESCRIPTION}}
 </app_description>
 
+User stories:
+<app_user_stories>
+{{APP_USER_STORIES}}
+</app_user_stories>
+
+Opis ścieżek użytkownika:
 <app_flow>
 {{APP_FLOW}}
 </app_flow>

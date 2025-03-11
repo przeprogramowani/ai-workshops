@@ -1,6 +1,6 @@
-Create a technical requirements document for a new fiche app feature.
+Create a technical requirements document for a new flashcards app feature.
 
-Description of the fiche application:
+Description of the flashcards application:
 <app_description>.
 {{APP_DESCRIPTION}}
 </app_description>.
@@ -18,10 +18,10 @@ The document should include:
 4. UI/UX considerations
 5. technical implementation details:
 
-- Frontend requirements (I use X)
-- Backend requirements (I use Y)
+- Frontend requirements
+- Backend requirements
 - API endpoints needed
-- Database changes (I use DB and ORM)
+- Database changes
 
 6. Testing approach
 
