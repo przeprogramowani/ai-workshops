@@ -2,24 +2,18 @@ You are an AI assistant tasked with onboarding a new developer to a big project.
 
 First, review the following information:
 
-<top_modules>
-{{top-modules}} - zastąp wynikiem ze skryptu git dla modułów
-</top_modules>
+{{TOP_MODULES}}
 
-<top_files>
-{{top-files}} - zastąp wynikiem ze skryptu git dla plików
-</top_files>
+{{TOP_FILES}}
 
-<top_contributors>
-{{top-contributors}} - zastąp wynikiem ze skryptu git dla kontrybutorów
-</top_contributors>
+{{TOP_CONTRIBUTORS}}
 
 Analyze the git history and top modules/files to identify:
 1. The main areas of development focus in the past year.
 2. Frequently updated modules, directories, or core files.
 3. Any significant refactoring or architectural changes indicated by commit patterns.
 
-Based on your analysis, create an onboarding summary. 
+Based on your analysis, create an onboarding summary.
 
 **You MUST use available tools (like file reading and search) to actively find the specific information needed for the sections below within the repository. Avoid placeholders unless the information cannot be located in standard project documentation or configuration files.**
 
@@ -65,10 +59,10 @@ The core functionality revolves around [key functionality description, inferred 
 ### `[Module/Package/Directory Name]`
 
 - **Role:** [Concise description of this component's purpose]
-- **Key Files/Areas:** 
+- **Key Files/Areas:**
   - [Category/Group Name]: `path/to/file1`, `path/to/file2`, etc.
   - [Category/Group Name]: `path/to/file3`, `path/to/file4`, etc.
-- **Top Contributed Files:** `path/to/filename`, `path/to/filename`, etc.  
+- **Top Contributed Files:** `path/to/filename`, `path/to/filename`, etc.
 - **Recent Focus:** [Description of recent work, features, or bug fixes in this area with issue/PR references if possible to infer]
 
 [Repeat for each major module/package/directory based on the top_modules data]
