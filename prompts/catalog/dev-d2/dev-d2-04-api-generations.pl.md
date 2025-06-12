@@ -1,39 +1,106 @@
-Jesteś wykwalifikowanym programistą TypeScript, którego zadaniem jest stworzenie biblioteki typów DTO (Data Transfer Object) i Command Model dla aplikacji. Twoim zadaniem jest przeanalizowanie definicji modelu bazy danych i planu API, a następnie utworzenie odpowiednich typów DTO, które dokładnie reprezentują struktury danych wymagane przez API, zachowując jednocześnie połączenie z podstawowymi modelami bazy danych.
+Jesteś doświadczonym architektem oprogramowania, którego zadaniem jest stworzenie szczegółowego planu wdrożenia punktu końcowego REST API. Twój plan poprowadzi zespół programistów w skutecznym i poprawnym wdrożeniu tego punktu końcowego.
 
-Najpierw dokładnie przejrzyj następujące dane wejściowe:
+Zanim zaczniemy, zapoznaj się z poniższymi informacjami:
 
-1. Modele bazy danych:
-<database_models>
-{{db-models}} <- zamień na referencję do typów wygenerowanych z db (np. @database.types.ts)
-</database_models>
+1. Route API specification:
+<route_api_specification>
+{{route-api-specification}} <- przekopiuj opis endpointa z api-plan.md
+</route_api_specification>
 
-2. Plan API (zawierający zdefiniowane DTO):
-<api_plan>
-{{api-plan}} <- zamień na referencję do @api-plan.md
-</api_plan>
+2. Related database resources:
+<related_db_resources>
+{{db-resources}} <- przekopiuj z tabele i relacje z db-plan.md
+</related_db_resources>
 
-Twoim zadaniem jest utworzenie definicji typów TypeScript dla DTO i Command Modeli określonych w planie API, upewniając się, że pochodzą one z modeli bazy danych. Wykonaj następujące kroki:
+3. Definicje typów:
+<type_definitions>
+{{types}} <- zamień na referencje do definicji typów (np. @types)
+</type_definitions>
 
-1. Przeanalizuj modele bazy danych i plan API.
-2. Utwórz typy DTO i Command Modele na podstawie planu API, wykorzystując definicje encji bazy danych.
-3. Zapewnienie zgodności między DTO i Command Modeli a wymaganiami API.
-4. Stosowanie odpowiednich funkcji języka TypeScript w celu tworzenia, zawężania lub rozszerzania typów zgodnie z potrzebami.
-5. Wykonaj końcowe sprawdzenie, aby upewnić się, że wszystkie DTO są uwzględnione i prawidłowo połączone z definicjami encji.
+3. Tech stack:
+<tech_stack>
+{{tech-stack}} <- zamień na referencje do @tech-stack.md
+</tech_stack>
 
-Przed utworzeniem ostatecznego wyniku, pracuj wewnątrz tagów <dto_analysis> w swoim bloku myślenia, aby pokazać swój proces myślowy i upewnić się, że wszystkie wymagania są spełnione. W swojej analizie:
-- Wymień wszystkie DTO i Command Modele zdefiniowane w planie API, numerując każdy z nich.
-- Dla każdego DTO i Comand Modelu:
- - Zidentyfikuj odpowiednie encje bazy danych i wszelkie niezbędne transformacje typów.
-  - Opisz funkcje lub narzędzia TypeScript, których planujesz użyć.
-  - Utwórz krótki szkic struktury DTO i Command Modelu.
-- Wyjaśnij, w jaki sposób zapewnisz, że każde DTO i Command Model jest bezpośrednio lub pośrednio połączone z definicjami typów encji.
+4. Implementation rules:
+<implementation_rules>
+{{backend-rules}} <- zamień na referencje do Rules for AI dla backendu (np. @shared.mdc, @backend.mdc, @astro.mdc)
+</implementation_rules>
 
-Po przeprowadzeniu analizy, podaj ostateczne definicje typów DTO i Command Modeli, które pojawią się w pliku src/types.ts. Użyj jasnych i opisowych nazw dla swoich typów i dodaj komentarze, aby wyjaśnić złożone manipulacje typami lub nieoczywiste relacje.
+Twoim zadaniem jest stworzenie kompleksowego planu wdrożenia endpointu interfejsu API REST. Przed dostarczeniem ostatecznego planu użyj znaczników <analysis>, aby przeanalizować informacje i nakreślić swoje podejście. W tej analizie upewnij się, że:
 
-Pamiętaj:
-- Upewnij się, że wszystkie DTO i Command Modele zdefiniowane w planie API są uwzględnione.
-- Każdy DTO i Command Model powinien bezpośrednio odnosić się do jednej lub więcej encji bazy danych.
-- W razie potrzeby używaj funkcji TypeScript, takich jak Pick, Omit, Partial itp.
-- Dodaj komentarze, aby wyjaśnić złożone lub nieoczywiste manipulacje typami.
+1. Podsumuj kluczowe punkty specyfikacji API.
+2. Wymień wymagane i opcjonalne parametry ze specyfikacji API.
+3. Wymień niezbędne typy DTO i Command Modele.
+4. Zastanów się, jak wyodrębnić logikę do service (istniejącego lub nowego, jeśli nie istnieje).
+5. Zaplanuj walidację danych wejściowych zgodnie ze specyfikacją API endpointa, zasobami bazy danych i regułami implementacji.
+6. Określenie sposobu rejestrowania błędów w tabeli błędów (jeśli dotyczy).
+7. Identyfikacja potencjalnych zagrożeń bezpieczeństwa w oparciu o specyfikację API i stack technologiczny.
+8. Nakreśl potencjalne scenariusze błędów i odpowiadające im kody stanu.
 
-Końcowy wynik powinien składać się wyłącznie z definicji typów DTO i Command Model, które zapiszesz w pliku src/types.ts, bez powielania lub ponownego wykonywania jakiejkolwiek pracy wykonanej w bloku myślenia.
+Po przeprowadzeniu analizy utwórz szczegółowy plan wdrożenia w formacie markdown. Plan powinien zawierać następujące sekcje:
+
+1. Przegląd punktu końcowego
+2. Szczegóły żądania
+3. Szczegóły odpowiedzi
+4. Przepływ danych
+5. Względy bezpieczeństwa
+6. Obsługa błędów
+7. Wydajność
+8. Kroki implementacji
+
+W całym planie upewnij się, że
+- Używać prawidłowych kodów stanu API:
+  - 200 dla pomyślnego odczytu
+  - 201 dla pomyślnego utworzenia
+  - 400 dla nieprawidłowych danych wejściowych
+  - 401 dla nieautoryzowanego dostępu
+  - 404 dla nie znalezionych zasobów
+  - 500 dla błędów po stronie serwera
+- Dostosowanie do dostarczonego stacku technologicznego
+- Postępuj zgodnie z podanymi zasadami implementacji
+
+Końcowym wynikiem powinien być dobrze zorganizowany plan wdrożenia w formacie markdown. Oto przykład tego, jak powinny wyglądać dane wyjściowe:
+
+``markdown
+# API Endpoint Implementation Plan: [Nazwa punktu końcowego]
+
+## 1. Przegląd punktu końcowego
+[Krótki opis celu i funkcjonalności punktu końcowego]
+
+## 2. Szczegóły żądania
+- Metoda HTTP: [GET/POST/PUT/DELETE]
+- Struktura URL: [wzorzec URL]
+- Parametry:
+  - Wymagane: [Lista wymaganych parametrów]
+  - Opcjonalne: [Lista opcjonalnych parametrów]
+- Request Body: [Struktura treści żądania, jeśli dotyczy]
+
+## 3. Wykorzystywane typy
+[DTOs i Command Modele niezbędne do implementacji]
+
+## 3. Szczegóły odpowiedzi
+[Oczekiwana struktura odpowiedzi i kody statusu]
+
+## 4. Przepływ danych
+[Opis przepływu danych, w tym interakcji z zewnętrznymi usługami lub bazami danych]
+
+## 5. Względy bezpieczeństwa
+[Szczegóły uwierzytelniania, autoryzacji i walidacji danych]
+
+## 6. Obsługa błędów
+[Lista potencjalnych błędów i sposób ich obsługi]
+
+## 7. Rozważania dotyczące wydajności
+[Potencjalne wąskie gardła i strategie optymalizacji]
+
+## 8. Etapy wdrożenia
+1. [Krok 1]
+2. [Krok 2]
+3. [Krok 3]
+...
+```
+
+Końcowe wyniki powinny składać się wyłącznie z planu wdrożenia w formacie markdown i nie powinny powielać ani powtarzać żadnej pracy wykonanej w sekcji analizy.
+
+Pamiętaj, aby zapisać swój plan wdrożenia jako .ai/view-implementation-plan.md. Upewnij się, że plan jest szczegółowy, przejrzysty i zapewnia kompleksowe wskazówki dla zespołu programistów.
