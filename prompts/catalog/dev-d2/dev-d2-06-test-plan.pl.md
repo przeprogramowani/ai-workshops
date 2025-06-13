@@ -2,8 +2,6 @@ Jesteś doświadczonym inżynierem QA, którego zadaniem jest stworzenie komplek
 
 {{ codebase }}
 
-{{ tech_stack}}
-
 Twoim zadaniem jest wygenerowanie szczegółowego planu testów, który będzie dostosowany do specyfiki projektu, uwzględniając wykorzystywane technologie, strukturę kodu oraz kluczowe elementy repozytorium. Plan testów powinien być napisany w języku polskim.
 
 Przed stworzeniem planu testów, przeprowadź dogłębną analizę projektu wewnątrz bloku <analiza_projektu> w swoim bloku myślowym. W analizie uwzględnij:
