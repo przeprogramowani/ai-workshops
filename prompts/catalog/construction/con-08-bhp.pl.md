@@ -1,0 +1,1 @@
+Co należy zrobić w zakresie formalności w przypadku prac szczególnie niebezpiecznych, o wysokim poziomie ryzyka zgodnie ze standardami BHP określonymi przez Porozumienia dla Bezpieczeństwa w Budownictwie?

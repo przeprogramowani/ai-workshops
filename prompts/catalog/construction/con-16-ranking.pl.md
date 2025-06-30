@@ -1,0 +1,1 @@
+Zbuduj złożony indeks oceny dostawcy, który obniża wynik za wyższą cenę i czas dostawy, a podwyższa za reputację i terminowość. Pokaż top 5 dostawców w tabeli i opisz w jednym akapicie główne różnice między nimi.

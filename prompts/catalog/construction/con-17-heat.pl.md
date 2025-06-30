@@ -1,0 +1,1 @@
+Przygotuj dwie mapy cieplne, w których oś X to materiały, oś Y to kategorie ryzyka, a kolory reprezentują średnią cenę lub średni ślad CO₂. Wyjaśnij, w których segmentach można najszybciej ciąć koszty lub emisje.
