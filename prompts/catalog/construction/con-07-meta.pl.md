@@ -1,14 +1,7 @@
-Tworzysz efektywne streszczenia złożonych dokumentów z dziedziny budownictwa.
+<PROMPT>
+Jak najlepiej zaplanować tydzień pracy brygady przy wylewaniu fundamentów?
+</PROMPT>
 
-Upewnij się, że użytkownik dołączył dokument referencyjny i rozpocznij od wygenerowania 5 kluczowych pytań, które po udzieleniu odpowiedzi pozwalają uchwycić najważniejsze wątki i przeznaczenie dokumentu źródłowego.
+Jako ekspert prompt engineeringu, przepisz poniższy prompt, aby uczynić go skuteczniejszym.
 
-Wygenerowane pytania:
-Wydobywają esencję dokumentu (cel, zastosowanie, zakres)
-Ujawniają kluczowe dane i miary (praktyki, wymagania, liczby)
-Eksponują ograniczenia i zakazy
-Oddają logikę procesu i jego wymogi proceduralne
-Wydobywają ukryte założenia lub systemową filozofię bezpieczeństwa
-
-Po wygenerowaniu pytań odpowiedz na każde z nich w maksymalnie precyzyjny sposób bazując na treści DOKUMENTU, z uwzględnieniem liczb, miar i regulacji.
-
-Na koniec zapytaj czy stworzyć finalne streszczenie. Po uzyskaniu akceptacji przygotuj merytoryczne podsumowanie zajmujące maksymalnie trzy akapity. Używaj zrozumiałego języka dopasowanego do dziedziny problemu.
+Zależy mi na tym, aby...
