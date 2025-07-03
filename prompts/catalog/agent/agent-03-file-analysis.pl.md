@@ -1,1 +1,1 @@
-Zapoznaj się z zawartością #file:v2.ts i wskaż 3 nadmiarowe antywzorce, które wprowadzają złożoność.
+Zapoznaj się z zawartością {{TOP_COMPLEX_FILE}} i wskaż 3 nadmiarowe antywzorce, które wprowadzają złożoność.

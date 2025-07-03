@@ -1,1 +1,1 @@
-#runCommands Podaj liczbę linijek w każdym z plików w folderze warmup/fizz-buzz.
+{{RUN_COMMANDS_TOOL}} Podaj liczbę linijek w każdym z plików w folderze warmup/fizz-buzz.
