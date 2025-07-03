@@ -1,0 +1,1 @@
+Użyj #file:npm-package-version.prompt.md aby sprawdzić wersję biblioteki @angular/core
