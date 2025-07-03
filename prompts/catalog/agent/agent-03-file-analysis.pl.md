@@ -1,0 +1,1 @@
+Zapoznaj się z zawartością #file:v2.ts i wskaż 3 nadmiarowe antywzorce, które wprowadzają złożoność.

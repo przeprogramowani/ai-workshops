@@ -1,0 +1,1 @@
+Na podstawie uzyskanych wyników wskaż, który z plików może być uznany za najbardziej skomplikowany.

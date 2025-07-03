@@ -1,0 +1,1 @@
+Czy znasz bibliotekę @angular/core? Chciałbym poznać ostatnią znaną ci wersję tej biblioteki w formacie "major.minor.patch"

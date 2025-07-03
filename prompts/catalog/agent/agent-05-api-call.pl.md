@@ -1,0 +1,1 @@
+Wywołaj publiczne API "https://registry.npmjs.org/-/package/{name}/dist-tags" z nazwą wspomnianej biblioteki, aby pobrać rzeczywistą najnowszą wersję (latest). #fetch

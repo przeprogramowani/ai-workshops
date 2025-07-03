@@ -1,0 +1,1 @@
+#runCommands Podaj liczbę linijek w każdym z plików w folderze warmup/fizz-buzz.
