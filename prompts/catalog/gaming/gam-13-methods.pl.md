@@ -1,0 +1,1 @@
+Na podstawie struktury danych zaproponuj listę 5-7 najciekawszych analiz lub wizualizacji, które pomogą ocenić dostawców materiałów budowlanych pod kątem kosztu, ryzyka i zrównoważonego rozwoju. Opisz krótko, co każda analiza da decydentowi.

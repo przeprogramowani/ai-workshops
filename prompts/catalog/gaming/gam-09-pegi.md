@@ -1,0 +1,1 @@
+Co należy zrobić w zakresie formalności w przypadku produkcji gier wideo o podwyższonym poziomie ryzyka (np. zawierających treści kontrowersyjne, mechaniki hazardowe lub intensywne przetwarzanie danych użytkowników) zgodnie ze standardami branżowymi oraz regulacjami prawnymi (takimi jak PEGI, ESRB, GDPR i wytyczne ISO/IEC dotyczące bezpieczeństwa informacji)?

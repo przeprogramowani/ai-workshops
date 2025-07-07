@@ -1,0 +1,1 @@
+Zanim przejdziesz do realizacji zadania, zadaj mi 3 pytania dotyczące brakującego kontekstu i niejasnych szczegółów, które pomogą Ci w realizacji zadania.

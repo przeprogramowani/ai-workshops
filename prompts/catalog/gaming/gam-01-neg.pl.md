@@ -1,0 +1,1 @@
+Jak przetestować grę mobilną?

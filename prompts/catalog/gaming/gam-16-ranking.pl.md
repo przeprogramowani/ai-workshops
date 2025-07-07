@@ -1,0 +1,1 @@
+Zbuduj złożony indeks oceny dystrybutora, który obniża wynik za niższą ocenę i czas dostawy, a podwyższa za reputację i procent dostaw cyfrowych. Pokaż top 5 dystrybutorów w tabeli i opisz w jednym akapicie główne różnice między nimi.
