@@ -1,1 +1,1 @@
-Z tej listy wybierz top 3 analizy, które twoim zdaniem przyniosą największą wartość biznesową pod kątem optymalizacji dostaw, i wyjaśnij dlaczego.
+Z zaproponowanej listy wybierz 3 analizy, które Twoim zdaniem przyniosą największą wartość biznesową pod kątem optymalizacji dystrybucji gier, i wyjaśnij dlaczego.
