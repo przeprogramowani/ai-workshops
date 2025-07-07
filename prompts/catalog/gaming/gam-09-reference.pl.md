@@ -1,0 +1,1 @@
+Uwzględnij w swoim raporcie informacje ze strony: https://www.globalratings.com/for-developers.aspx
