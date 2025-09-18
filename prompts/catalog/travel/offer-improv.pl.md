@@ -1,0 +1,1 @@
+Jak poprawić działanie strony z ofertami wakacyjnymi?

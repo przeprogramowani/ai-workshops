@@ -9,7 +9,7 @@ Zanim zaczniemy, zapoznaj się z poniższymi informacjami:
 
 2. Related database resources:
 <related_db_resources>
-{{db-resources}} <- przekopiuj z tabele i relacje z db-plan.md
+{{db-resources}} <- zamień na referencję do @db-plan.md
 </related_db_resources>
 
 3. Definicje typów:
@@ -27,7 +27,7 @@ Zanim zaczniemy, zapoznaj się z poniższymi informacjami:
 {{backend-rules}} <- zamień na referencje do Rules for AI dla backendu (np. @shared.mdc, @backend.mdc, @astro.mdc)
 </implementation_rules>
 
-Twoim zadaniem jest stworzenie kompleksowego planu wdrożenia endpointu interfejsu API REST. Przed dostarczeniem ostatecznego planu użyj znaczników <analysis>, aby przeanalizować informacje i nakreślić swoje podejście. W tej analizie upewnij się, że:
+Twoim zadaniem jest stworzenie kompleksowego planu wdrożenia endpointu interfejsu API REST. Przed dostarczeniem ostatecznego planu w pliku markdown, przeanalizuj informacje i nakreśl swoje podejście. W tej analizie upewnij się, że:
 
 1. Podsumuj kluczowe punkty specyfikacji API.
 2. Wymień wymagane i opcjonalne parametry ze specyfikacji API.
@@ -103,4 +103,4 @@ Końcowym wynikiem powinien być dobrze zorganizowany plan wdrożenia w formacie
 
 Końcowe wyniki powinny składać się wyłącznie z planu wdrożenia w formacie markdown i nie powinny powielać ani powtarzać żadnej pracy wykonanej w sekcji analizy.
 
-Pamiętaj, aby zapisać swój plan wdrożenia jako .ai/view-implementation-plan.md. Upewnij się, że plan jest szczegółowy, przejrzysty i zapewnia kompleksowe wskazówki dla zespołu programistów.
+Pamiętaj, aby zapisać swój plan wdrożenia jako docs/{{endpoint-name}}-implementation-plan.md. Upewnij się, że plan jest szczegółowy, przejrzysty i zapewnia kompleksowe wskazówki dla zespołu programistów.

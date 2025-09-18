@@ -1,0 +1,1 @@
+Check if @middleware.ts is implemented according to best practices for Astro. use context7
